@@ -16,10 +16,11 @@ Control y documentación de **Satoshian FC** (Hattrick.org, TeamID 3524617, seri
 ## Estado actual (25-nov-2026)
 
 - Temporada 96, semana 3 de 16. Posición: 2.º en VI.78.
-- Caja: 233 000 US$. Margen semanal sin taquilla: ≈ +2 000 US$.
+- Caja: 225 872 US$. Margen semanal sin taquilla: entre −2 600 y +3 900 US$ según el incentivo de sponsor.
+- Plantilla: 22 jugadores (3 interiores de 17 años fichados el 25-nov; un cuarto en proceso).
 - Entrenamiento: Playmaking 100% / stamina 15%.
 - Compras de jugadores: **en pausa** por decisión de Joan.
-- Último levantamiento: [`snapshots/2026-11-25-base.md`](snapshots/2026-11-25-base.md)
+- Levantamientos: [`base`](snapshots/2026-11-25-base.md) · [`actualización tarde`](snapshots/2026-11-25-actualizacion-tarde.md)
 
 ## Convenciones
 

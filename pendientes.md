@@ -1,15 +1,16 @@
 # Pendientes
 
 ## Por decidir (Joan)
+- [ ] ¿Meter a los fichajes en el amistoso de hoy (órdenes hasta las 23:00 HT) para que entrenen esta semana?
 - [ ] Alineación 4-4-2 para la liga del 29-nov vs Alabama Bears (Claude la propone).
 - [ ] ¿Mantener o cerrar la red de scouts (10 000 US$/sem)?
 - [ ] Confirmar "no despedir jugadores por ahora".
 - [ ] ¿Escribir a soporte de Hattrick sobre el uso de un asistente de IA por navegador?
 
 ## Por verificar (Claude, solo lectura)
-- [ ] Resultado de las 4 pujas y sueldo real de cada fichaje.
+- [x] Resultado de las pujas: Yangki, Bajer y Algeier en plantilla. Falta confirmar llegada de Vohidov.
 - [ ] Si el "Season 95 Incentive" (6 500) es semanal.
-- [ ] Origen del gasto "Otros" (2 000).
+- [x] Gasto "Otros" (2 000): "Promoted Youth", único.
 - [ ] Asistencia y taquilla reales del 29-nov.
 - [ ] Si la primera actualización económica cobra sueldos y staff completos.
 - [ ] Eficiencia de entrenamiento con los 2 asistentes.
