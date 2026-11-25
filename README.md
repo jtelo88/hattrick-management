@@ -10,6 +10,7 @@ Control y documentación de **Satoshian FC** (Hattrick.org, TeamID 3524617, seri
 | `docs/estrategia.md` | Estrategia deportiva y de entrenamiento vigente, con su justificación. |
 | `docs/presupuesto.md` | Presupuesto semanal recurrente y palancas financieras. |
 | `docs/competencia.md` | Rivales de la serie: calificaciones por línea, reglas de ascenso y lectura. |
+| `docs/entrenamiento-y-cantera.md` | Eficiencia de entrenamiento, precios de entrenador y asistentes, opciones de cantera. |
 | `docs/operacion.md` | Reglas de operación: aprobaciones, acceso, límites y riesgos. |
 | `log/decisiones.md` | Bitácora cronológica de decisiones y cambios ejecutados en el juego. |
 | `pendientes.md` | Lo que falta verificar o decidir. |
