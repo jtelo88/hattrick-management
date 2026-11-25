@@ -8,10 +8,12 @@
 - [ ] ¿Escribir a soporte de Hattrick sobre el uso de un asistente de IA por navegador?
 
 ## Cantera
-- [ ] Confirmar llegada de los juveniles iniciales (el juego dice "will be here soon").
-- [ ] Confirmar liga juvenil: tras activar, la ficha mostraba "(Create League) / (Join a league)".
+- [x] Juveniles iniciales: 15 jugadores (ver `docs/cantera-plantilla.md`).
+- [x] Liga juvenil asignada: Global Fun Academy.
+- [ ] Revisar calendario juvenil y proponer alineación del primer partido.
 - [ ] Llamar al scout cuando se habilite (~28-nov) y proponer a Joan aceptar o rechazar el prospecto.
-- [ ] Tarea de Manager License de cantera: hay un botón "Complete task" con bono; pulsarlo con aprobación.
+- [x] Tarea de cantera cobrada.
+- [ ] Última tarea de Manager License: poner un jugador en venta (15 000 US$ de bono; listar cuesta 1 000). Joan decide a quién.
 - [ ] Revisión en la semana 6 (primer punto de salida): calidad de prospectos y 2.º scout.
 
 ## Por verificar (Claude, solo lectura)

@@ -21,6 +21,7 @@ Orden cronológico. Cada entrada: qué se decidió, quién aprobó y qué se eje
 | 13 | Análisis de la competencia (solo lectura) | Joan | `docs/competencia.md` |
 | 14 | Pasar de red de scouts a cantera propia (Youth Team), 1 scout, liga asignada por el sistema | Joan | Ejecutado: Satoshian Academy (YouthTeamID 3296580), nombre corto "Satoshi" (el juego recortó "Satoshi Jr"), estadio Genesis Block Field |
 | 15 | Entrenamiento juvenil: principal Playmaking, secundario Passing | Joan | Ejecutado; "Training focus updated" |
+| 16 | Completar las tareas de Manager License pendientes | Joan | Cobradas: "The future is yours!" (cantera), "Open, sesame!" (leer página de Supporter) y "Free advice for the taking!" (suscripción al foro Preguntas (Español)). Queda una: "You are the weakest link" (poner un jugador en venta), 15 000 US$ |
 
 ### Notas del día
 - Corrección: la primera estimación de margen (~12 000 US$/sem) omitía mantenimiento del estadio (7 100) y "Otros" (2 000). Margen corregido: ≈ +2 000 sin taquilla.
