@@ -8,7 +8,7 @@
 - [ ] ¿Escribir a soporte de Hattrick sobre el uso de un asistente de IA por navegador?
 
 ## Por verificar (Claude, solo lectura)
-- [x] Resultado de las pujas: Yangki, Bajer y Algeier en plantilla. Falta confirmar llegada de Vohidov.
+- [x] Resultado de las pujas: las 4 subastas ganadas (Yangki, Bajer, Algeier, Vohidov).
 - [ ] Si el "Season 95 Incentive" (6 500) es semanal.
 - [x] Gasto "Otros" (2 000): "Promoted Youth", único.
 - [ ] Asistencia y taquilla reales del 29-nov.
