@@ -14,7 +14,7 @@
 - [ ] Asistencia y taquilla reales del 29-nov.
 - [ ] Si la primera actualización económica cobra sueldos y staff completos.
 - [ ] Eficiencia de entrenamiento con los 2 asistentes.
-- [ ] Reglas de ascenso de VI.78.
+- [x] Reglas de ascenso: 1.º y 2.º suben directo; 3.º y 4.º juegan clasificación.
 - [ ] Costo de cambiar de entrenador y de contratar médico.
 - [ ] Costo y efectos de despedir jugadores y de desactivar la red de scouts.
 - [ ] Tareas 11–16 de Manager License y sus bonos.

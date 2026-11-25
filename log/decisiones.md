@@ -18,6 +18,7 @@ Orden cronológico. Cada entrada: qué se decidió, quién aprobó y qué se eje
 | 10 | Usar este repositorio como control y documentación | Joan | Estructura creada |
 | 11 | Verificación de finanzas en solo lectura (scouts, "Otros", incentivo) | Joan | `snapshots/2026-11-25-actualizacion-tarde.md` |
 | 12 | Amistoso vs FC TetPapa: interiores Yangki, Bajer y Algeier en lugar de Watson, Castañeda y Ollis, para que los fichajes entrenen esta semana | Joan | Ejecutado; "Orders have been saved". Alineación final: McArdle; Parker, Manning, Whitaker; Elsner, Yangki, Bajer, Algeier, Beasley; Gilland, Sanders |
+| 13 | Análisis de la competencia (solo lectura) | Joan | `docs/competencia.md` |
 
 ### Notas del día
 - Corrección: la primera estimación de margen (~12 000 US$/sem) omitía mantenimiento del estadio (7 100) y "Otros" (2 000). Margen corregido: ≈ +2 000 sin taquilla.
