@@ -1,7 +1,7 @@
 # Pendientes
 
 ## Por decidir (Joan)
-- [ ] ¿Meter a los fichajes en el amistoso de hoy (órdenes hasta las 23:00 HT) para que entrenen esta semana?
+- [x] Fichajes metidos en el amistoso del 25-nov.
 - [ ] Alineación 4-4-2 para la liga del 29-nov vs Alabama Bears (Claude la propone).
 - [ ] ¿Mantener o cerrar la red de scouts (10 000 US$/sem)?
 - [ ] Confirmar "no despedir jugadores por ahora".
