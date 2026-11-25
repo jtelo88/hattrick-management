@@ -22,6 +22,8 @@ Orden cronológico. Cada entrada: qué se decidió, quién aprobó y qué se eje
 | 14 | Pasar de red de scouts a cantera propia (Youth Team), 1 scout, liga asignada por el sistema | Joan | Ejecutado: Satoshian Academy (YouthTeamID 3296580), nombre corto "Satoshi" (el juego recortó "Satoshi Jr"), estadio Genesis Block Field |
 | 15 | Entrenamiento juvenil: principal Playmaking, secundario Passing | Joan | Ejecutado; "Training focus updated" |
 | 16 | Completar las tareas de Manager License pendientes | Joan | Cobradas: "The future is yours!" (cantera), "Open, sesame!" (leer página de Supporter) y "Free advice for the taking!" (suscripción al foro Preguntas (Español)). Queda una: "You are the weakest link" (poner un jugador en venta), 15 000 US$ |
+| 17 | Poner a Alexander Ollis en venta para cobrar la última tarea | Joan | Bono de 15 000 US$ cobrado **sin vender**: la tarea se completaba al abrir el formulario de venta. Venta en espera de nueva confirmación de Joan (retención del 85,05% por llevar 2 días en el club; listar cuesta 1 000) |
+| 18 | Dejar la cantera lista para jugar | Joan | Liga Global Fun Academy (4 equipos, 3 inscritos): sin partidos hasta que se llene. Amistoso juvenil reservable desde el 30-nov 00:00. Sin alineación que fijar todavía |
 
 ### Notas del día
 - Corrección: la primera estimación de margen (~12 000 US$/sem) omitía mantenimiento del estadio (7 100) y "Otros" (2 000). Margen corregido: ≈ +2 000 sin taquilla.

@@ -27,3 +27,7 @@ Todas las habilidades figuran como "unknown" hasta que jueguen y el entrenador l
 - 15 jugadores; cupo máximo 18.
 - Los de 15 años son los más valiosos a largo plazo: pueden promoverse justo al cumplir 17.
 - Próxima llamada al scout: ~28-nov.
+
+## Estado de competición (25-nov-2026)
+- Global Fun Academy (YouthLeagueId 732243): liga internacional de 4 equipos, temporada 20. Inscritos: Verts et pas mûrs (admin), FC Mjuk Plast, Satoshian Academy. Falta un equipo; el juego indica que aún no se han creado partidos.
+- Amistosos juveniles: el siguiente se puede reservar desde el 30-nov-2026 00:00.

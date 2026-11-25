@@ -13,7 +13,9 @@
 - [ ] Revisar calendario juvenil y proponer alineación del primer partido.
 - [ ] Llamar al scout cuando se habilite (~28-nov) y proponer a Joan aceptar o rechazar el prospecto.
 - [x] Tarea de cantera cobrada.
-- [ ] Última tarea de Manager License: poner un jugador en venta (15 000 US$ de bono; listar cuesta 1 000). Joan decide a quién.
+- [x] Manager License: 16 de 16 tareas cobradas.
+- [ ] ¿Vender a Ollis de todos modos? (ya no hace falta para el bono)
+- [ ] Reservar amistoso juvenil a partir del 30-nov.
 - [ ] Revisión en la semana 6 (primer punto de salida): calidad de prospectos y 2.º scout.
 
 ## Por verificar (Claude, solo lectura)
