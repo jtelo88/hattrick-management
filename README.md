@@ -22,6 +22,7 @@ Control y documentación de **Satoshian FC** (Hattrick.org, TeamID 3524617, seri
 - Plantilla: 22 jugadores (3 interiores de 17 años fichados el 25-nov; un cuarto en proceso).
 - Entrenamiento: Playmaking 100% / stamina 15%.
 - Compras de jugadores: **en pausa** por decisión de Joan.
+- Cantera: Satoshian Academy (YouthTeamID 3296580) activa desde el 25-nov, 1 scout, Playmaking + Passing.
 - Levantamientos: [`base`](snapshots/2026-11-25-base.md) · [`actualización tarde`](snapshots/2026-11-25-actualizacion-tarde.md)
 
 ## Convenciones

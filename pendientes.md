@@ -3,9 +3,16 @@
 ## Por decidir (Joan)
 - [x] Fichajes metidos en el amistoso del 25-nov.
 - [ ] Alineación 4-4-2 para la liga del 29-nov vs Alabama Bears (Claude la propone).
-- [ ] ¿Mantener o cerrar la red de scouts (10 000 US$/sem)?
+- [x] Red de scouts reemplazada por cantera propia (25-nov).
 - [ ] Confirmar "no despedir jugadores por ahora".
 - [ ] ¿Escribir a soporte de Hattrick sobre el uso de un asistente de IA por navegador?
+
+## Cantera
+- [ ] Confirmar llegada de los juveniles iniciales (el juego dice "will be here soon").
+- [ ] Confirmar liga juvenil: tras activar, la ficha mostraba "(Create League) / (Join a league)".
+- [ ] Llamar al scout cuando se habilite (~28-nov) y proponer a Joan aceptar o rechazar el prospecto.
+- [ ] Tarea de Manager License de cantera: hay un botón "Complete task" con bono; pulsarlo con aprobación.
+- [ ] Revisión en la semana 6 (primer punto de salida): calidad de prospectos y 2.º scout.
 
 ## Por verificar (Claude, solo lectura)
 - [x] Resultado de las pujas: las 4 subastas ganadas (Yangki, Bajer, Algeier, Vohidov).
