@@ -41,3 +41,45 @@ Advertencias:
 - No hace falta comprar refuerzos en defensa ni ataque para pelear el 2.º puesto.
 - Si se refuerza algo, que sea el mediocampo de liga (1–2 interiores veteranos con playmaking 8+), sin quitar cupos de entrenamiento a los de 17 años.
 - Calendario: _Barbarians_ fuera el 6-dic (derrota esperada); el resto son partidos ganables.
+
+---
+
+# Mercado de veteranos y escenario contra _Barbarians_ (25-nov-2026)
+
+## Precios observados, jugadores de 27–31 años [juego]
+Primera página de cada búsqueda (25 jugadores). Son pujas vigentes o precios de salida, no precios de cierre.
+
+| Línea | Nivel | Precio visto | Sueldo/sem visto |
+|---|---|---|---|
+| Interior (playmaking) | 8–9 | 0 – 7 000; muchos sin pujas | no capturado |
+| Interior (playmaking) | 10 | 0 – 25 000 los simples; 55 000+ con secundarias | no capturado |
+| Defensa (defending) | 9 | 0 – 6 000 los simples; 20 000–50 000 con secundarias | 970 – 1 360 |
+| Defensa (defending) | 10 | 120 000 – 350 000 pedidos, casi sin pujas | 2 000 – 2 500 |
+| Defensa (defending) | 11 | 49 000 – 430 000 | 2 500 – 4 500 |
+| Delantero (scoring) | 8 | 0 – 12 500 | 610 – 1 120 |
+| Delantero (scoring) | 9 | 1 000 – 22 500 | 730 – 1 400 |
+| Delantero (scoring) | 10 | 1 000 – 18 000 los simples | 2 000 – 2 800 |
+
+- El precio de compra es bajo; **el costo real es el sueldo**, que se duplica aproximadamente de nivel 9 a 10.
+- Muchos baratos tienen forma 2–3 o stamina 4–5, que rinden por debajo de su nivel. Filtrar por forma ≥5 y stamina ≥6.
+
+## ¿Se le puede ganar a _Barbarians_? [inferencia con fórmulas del pack]
+Fórmulas (no oficiales, de datos de la comunidad): reparto de ocasiones `m³/(m³+M³)`; conversión `0,92·a^3,5/(a^3,5+d^3,5)` restando 0,75 a las calificaciones mostradas.
+
+| Escenario | Mediocampo | Defensa | Ataque | Ocasiones nuestras | Conversión nuestra | Conversión de ellos |
+|---|---|---|---|---|---|---|
+| Hoy | 3,75 | 6,50 | 5,00 | ~10% | ~1,6% | ~59% |
+| Equipo "espejo" | 7,75 | 10,0 | 10,0 | 50% | ~19% | ~23% |
+
+- Hoy: prácticamente imposible. Ellos tendrían 9 de cada 10 ocasiones y convertirían más de la mitad.
+- Para un partido parejo haría falta duplicar el mediocampo y subir defensa y ataque a 10. Eso implica once titulares de nivel ~10–12, con sueldos de 2 000–4 500 cada uno: del orden de +30 000 a +40 000 US$/semana (estimación gruesa; la relación entre nivel de jugador y calificación de línea no está verificada).
+- No es sostenible con el presupuesto actual ni necesario: el 2.º puesto asciende directo.
+
+## Estrategias posibles para mejorar otras líneas
+| Opción | Qué se compra | Compra aprox. | Sueldos nuevos aprox. | Efecto esperado |
+|---|---|---|---|---|
+| A. Mínima | 2 interiores PM 9 para la liga | < 10 000 | +2 000 a +2 700/sem | Ventaja en mediocampo sobre los 6 rivales parejos |
+| B. Columna | A + 2 centrales DEF 9 + 1 delantero GOL 9 | 10 000 – 30 000 | +5 500 a +6 500/sem | Ventaja clara en las tres líneas |
+| C. Perseguir a _Barbarians_ | Once titulares nivel 10–12 | cientos de miles | +30 000 a +40 000/sem | Partido parejo, sin garantía |
+
+Recomendación de Claude: opción A después de ver la taquilla del 29-nov; B solo si la taquilla confirma ~70 000+ por partido en casa; C descartada esta temporada.
