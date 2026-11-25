@@ -24,6 +24,7 @@ Orden cronológico. Cada entrada: qué se decidió, quién aprobó y qué se eje
 | 16 | Completar las tareas de Manager License pendientes | Joan | Cobradas: "The future is yours!" (cantera), "Open, sesame!" (leer página de Supporter) y "Free advice for the taking!" (suscripción al foro Preguntas (Español)). Queda una: "You are the weakest link" (poner un jugador en venta), 15 000 US$ |
 | 17 | Poner a Alexander Ollis en venta para cobrar la última tarea | Joan | Bono de 15 000 US$ cobrado **sin vender**: la tarea se completaba al abrir el formulario de venta. Venta en espera de nueva confirmación de Joan (retención del 85,05% por llevar 2 días en el club; listar cuesta 1 000) |
 | 18 | Dejar la cantera lista para jugar | Joan | Liga Global Fun Academy (4 equipos, 3 inscritos): sin partidos hasta que se llene. Amistoso juvenil reservable desde el 30-nov 00:00. Sin alineación que fijar todavía |
+| 19 | Completar el grupo de entrenamiento con 6 jugadores de 17 años nacidos en EE. UU. (2 interiores, 4 extremos), tope total 60 000; usar Max bid; liga en 3-5-2 desde el 29-nov | Joan | Seis pujas de 1 000 colocadas y liderando. Solo hay un autobid gratuito a la vez (en Cabrera); el resto, manual. Ver `docs/plan-grupo-entrenamiento.md` |
 
 ### Notas del día
 - Corrección: la primera estimación de margen (~12 000 US$/sem) omitía mantenimiento del estadio (7 100) y "Otros" (2 000). Margen corregido: ≈ +2 000 sin taquilla.

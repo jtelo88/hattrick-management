@@ -7,6 +7,11 @@
 - [ ] Confirmar "no despedir jugadores por ahora".
 - [ ] ¿Escribir a soporte de Hattrick sobre el uso de un asistente de IA por navegador?
 
+## Compras en curso
+- [ ] Seguir las 6 subastas hasta su cierre (ver `docs/plan-grupo-entrenamiento.md`).
+- [ ] Lista de bajas: Joan quiere reducir nómina; proponer a quién vender y a quién despedir.
+- [ ] Fijar 3-5-2 de liga para el 29-nov cuando lleguen los fichajes.
+
 ## Cantera
 - [x] Juveniles iniciales: 15 jugadores (ver `docs/cantera-plantilla.md`).
 - [x] Liga juvenil asignada: Global Fun Academy.

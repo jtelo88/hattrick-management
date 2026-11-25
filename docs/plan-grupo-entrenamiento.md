@@ -1,6 +1,6 @@
 # Plan: grupo de entrenamiento completo con jugadores de EE. UU. (propuesto el 25-nov-2026)
 
-Estado: **propuesto, pendiente de aprobación de Joan**.
+Estado: **aprobado por Joan el 25-nov-2026** (los 6 objetivos con sus topes, uso de Max bid del juego, y 3-5-2 en liga desde el 29-nov).
 
 ## Criterios de Joan
 - Alineación dedicada a aprovechar el entrenamiento.
@@ -67,3 +67,17 @@ Costo deportivo: el 3-5-2 tiene experiencia "poor" (3) frente a "excellent" (8) 
 
 ## Plantilla
 23 actuales + 6 = 29. Quedan sin rol: Watson, Castañeda, Ollis, O'Connor, Moak (interiores) y Elsner, Freeman, Beasley, Pauken-Elliott (extremos). Propuesta posterior: conservar 2–3 como suplentes y vender o despedir el resto (cada listado cuesta 1 000 US$ y hoy se retiene ~85% del precio).
+
+## Ejecución (25-nov-2026, ~09:35 HT)
+| Jugador | playerId | Puja colocada | Tipo | Tope aprobado | Cierre (HT) |
+|---|---|---|---|---|---|
+| René Cabrera | 518260777 | 1 000 | Max bid hasta 5 000 | 5 000 | 25-nov 22:50 |
+| Conor Ross | 518263037 | 1 000 | Manual | 10 000 | 26-nov 02:10 |
+| Joshua Goodwin | 518264864 | 1 000 | Manual | 5 000 | 26-nov 19:21 |
+| Willie MacDonald | 518291831 | 1 000 | Manual | 10 000 | 27-nov 20:38 |
+| Marcellus Shear | 518292968 | 1 000 | Manual | 25 000 | 27-nov 21:43 |
+| Owen Tucker | 518295225 | 1 000 | Manual | 5 000 | 28-nov 00:44 |
+
+- Satoshian FC lidera las seis.
+- **Limitación descubierta:** el juego da un solo autobid gratuito a la vez; cada autobid adicional cuesta 2 créditos (moneda de pago real). No se compran créditos. El autobid se usa en la subasta que cierra primero y se va moviendo; el resto se defiende con pujas manuales en revisiones programadas antes de cada cierre.
+- Revisiones programadas (hora de Florida): 25-nov 19:50 (Ross), 26-nov 13:00 (Goodwin), 27-nov 14:15 (MacDonald y Shear, con autobid en Shear), 27-nov 18:25 (Tucker).
