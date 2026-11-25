@@ -46,3 +46,35 @@ Sistema actual: Scouting Network con 1 scout, 10 000 US$/sem (5 000 scout + 5 00
 - Sin verificar: si despedir al único scout elimina también el cargo de red; el costo real de Youth Team en US$; tiempos de espera para cambiar de sistema.
 
 Recomendación de Claude: la opción 1 es la peor de las tres. Elegir entre 2 y 3 tras la taquilla del 29-nov: con presupuesto holgado, opción 3 (la gestión semanal la hace Claude); con presupuesto justo, opción 2.
+
+---
+
+## Verificación de cantera (25-nov-2026, tarde)
+
+### Confirmado
+- **Pantalla "Start youth team" del juego:** pide nombre del equipo juvenil, nombre corto, nombre del estadio y liga juvenil ("Search and Join Manually" o "Let the System Pick One for Me"). Texto: "Your scouts will stay on but work in a new way" → el scout actual se conserva; no hay bono de fichaje de scout nuevo. [juego]
+- **Manual oficial (sección juvenil):** registro único de 5 000 US$; 10 000 US$/sem con un scout y 5 000 por cada scout adicional (máx. 3), más 5 000 de bono al contratar cada scout nuevo; juveniles llegan con 15–16 años; máximo 18 en plantilla; promoción desde los 17 años y tras 112 días en la academia, costo 2 000 US$, uno por semana; dos entrenamientos simultáneos (principal y secundario); un partido de liga por semana y un amistoso cada tres; hay que mantener la academia al menos 6 semanas; solo se cierra entre temporadas juveniles o fuera de liga. [manual]
+- **Editorial oficial del 7-nov-2023:** la red de scouts usa scouts individuales igual que la academia, con vista previa del prospecto; se hizo así para facilitar el cambio entre sistemas. [juego, noticias]
+- **Costo semanal:** red de scouts actual = 10 000; academia con 1 scout = 10 000. **Cambiar no sube el gasto semanal**; solo suma 5 000 de registro.
+
+### No confirmado
+- Si despedir al único scout deja el costo juvenil en 0. La página dice que contratar el primer scout "activa" el sistema con 5 000 de mantenimiento, lo que sugiere que sí, pero solo se ve al pulsar "Fire him!", y no se pulsó.
+- La parte del manual sobre la red de scouts describe el sistema antiguo (inversión de 5 000/10 000/20 000) y no coincide con la interfaz actual.
+- Probabilidad de obtener juveniles valiosos con 1 scout frente a 3: solo hay guías de la comunidad, sin datos oficiales.
+
+### Comparación económica por temporada (16 semanas) [inferencia]
+| Opción | Costo | Qué produce | Valor de mercado estimado |
+|---|---|---|---|
+| Red de scouts (hoy) | 160 000 | ~16 juveniles de 17 años, una habilidad | 1 000–3 000 c/u → 16 000–48 000 |
+| Cerrar | 0 | Nada | Ahorro de 160 000 |
+| Academia, 1 scout | 165 000 el primer año | ~16 juveniles de 15–16 años entrenados en 2 habilidades | Perfil PM 6–7 + pases 5–6 a los 17 se vio a 24 000–57 000; tres habilidades en 7 a 325 000–576 000 |
+| Academia, 3 scouts | 335 000 el primer año | Igual volumen, eligiendo 1 de 3 prospectos por semana | Mayor calidad media (según guías de la comunidad) |
+
+La academia recupera su costo si unos 4–6 juveniles por temporada salen con dos habilidades útiles. No hay garantía.
+
+### Plan recomendado
+1. Activar Youth Team ahora (5 000 de registro), con liga asignada por el sistema. Mismo gasto semanal que hoy.
+2. Mantener 1 scout con criterio Midfielder. Entrenamiento juvenil: principal Playmaking, secundario Passing.
+3. Cada semana: llamar al scout, aceptar o rechazar el prospecto, alineación juvenil y revisión de reportes del entrenador.
+4. Semana 6 (primer punto de salida posible): revisar calidad de los prospectos y la taquilla. Si el presupuesto es holgado, sumar un 2.º scout (+5 000/sem y 5 000 de bono).
+5. Promover a los 17 años con 112 días cumplidos (2 000 US$ c/u); los que no sirvan, se venden o descartan.
