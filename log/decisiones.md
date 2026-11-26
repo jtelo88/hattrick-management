@@ -36,3 +36,29 @@ Orden cronológico. Cada entrada: qué se decidió, quién aprobó y qué se eje
 - Amistoso Satoshian FC 2-0 FC TetPapa (vista pública). Sin lesionados ni tarjetas en la plantilla.
 - René Cabrera ya figura en la plantilla (24 jugadores; sueldos 9 586 US$/sem). Precio final sin confirmar.
 - **La sesión de Hattrick en el navegador integrado estaba cerrada**: no se pudieron leer calificaciones del partido, precio del médico, opciones de amistoso ni defender la puja por Conor Ross (cierre 02:10 HT del 26-nov).
+
+## 2026-11-26 (05:50 HT) — revisión con sesión restablecida (host www84)
+
+### Amistoso Satoshian FC 2-0 FC TetPapa (3-5-2 con aprendices)
+| Línea | Satoshian FC | FC TetPapa |
+|---|---|---|
+| Mediocampo | 3,25 | 4,00 |
+| Defensa (media) | 4,75 | 5,75 |
+| Ataque (medio) | 3,75 | 4,00 |
+| Total | 4,00 | 4,50 |
+
+- Posesión 45%–55%; ocasiones 5–7. Sin lesiones ni tarjetas propias. 302 espectadores; taquilla compartida 2 732 US$.
+- Yangki, Bajer y Algeier jugaron 90' de interiores; Elsner y Beasley 90' de extremos (confirmado en la vista de entrenamiento).
+- Comparación con el 4-4-2 del 24-nov (3,75 / 6,50 / 5,00; total 5,00): el 3-5-2 con aprendices baja 1 punto de media y deja al equipo al nivel de los rivales parejos de la serie.
+
+### Subastas
+- René Cabrera: **ganado por 1 000 US$**.
+- Conor Ross: **perdido** (6 000 US$, Puente Altinos FC). La sesión estaba cerrada y no se pudo defender.
+- Marcellus Shear: Max bid activado con tope 25 000 (puja visible 1 000).
+- Matthew Lambert (reserva de Ross; 17a 6d, extremo 6, playmaking 4, sueldo 270): puja de 1 000, cierra 26-nov 17:26 HT.
+- Goodwin, MacDonald y Tucker: siguen liderados por Satoshian FC con 1 000.
+
+### Datos leídos (sin ejecutar)
+- Médico, contrato de 16 semanas: N1 −7,5% lesión, 1 020/sem · N2 −15%, 2 040 · N3 −22,5%, 4 080 · N4 −30%, 8 160 · N5 −37,5%, 16 320. Recuperación +20% por nivel.
+- Amistoso senior de la próxima semana: sin reservar; hay botón "Add your team to pool".
+- Entrenamiento: eficiencia 64%; stamina sigue en 15%.

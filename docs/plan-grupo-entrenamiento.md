@@ -81,3 +81,8 @@ Costo deportivo: el 3-5-2 tiene experiencia "poor" (3) frente a "excellent" (8) 
 - Satoshian FC lidera las seis.
 - **Limitación descubierta:** el juego da un solo autobid gratuito a la vez; cada autobid adicional cuesta 2 créditos (moneda de pago real). No se compran créditos. El autobid se usa en la subasta que cierra primero y se va moviendo; el resto se defiende con pujas manuales en revisiones programadas antes de cada cierre.
 - Revisiones programadas (hora de Florida): 25-nov 19:50 (Ross), 26-nov 13:00 (Goodwin), 27-nov 14:15 (MacDonald y Shear, con autobid en Shear), 27-nov 18:25 (Tucker).
+
+## Actualización 26-nov-2026 05:50 HT
+- Cabrera ganado (1 000). Ross perdido (6 000, otro club). Lambert pujado como reserva (1 000).
+- Autobid gratuito movido a Shear (tope 25 000).
+- **Dato nuevo:** el 3-5-2 con aprendices rindió 3,25 / 4,75 / 3,75 (total 4,00) en el amistoso, frente a 3,75 / 6,50 / 5,00 (total 5,00) del 4-4-2. Alternativa a evaluar para la liga: 4-4-2 con 2 interiores y 2 extremos aprendices (5 de 6 cupos completos) y 3-5-2 solo en amistosos.

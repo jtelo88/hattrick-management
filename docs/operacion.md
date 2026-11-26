@@ -7,6 +7,7 @@
 
 ## Acceso
 - Navegador integrado de la app de escritorio de Claude, con la sesión iniciada por Joan. Claude no escribe contraseñas.
+- La sesión caduca sola tras unas horas y al volver a entrar puede cambiar de servidor (www87 el 25-nov; www84 el 26-nov). Antes de navegar, leer el host de la pestaña activa.
 - La sesión vive en un servidor concreto (`www87.hattrick.org` el 25-nov). Navegar a otro `wwwNN` la cierra: usar siempre el host de la sesión activa.
 - Para alineaciones, la versión simple (`/Club/Matches/MatchOrder/Simple.aspx?MatchID=…`) usa menús desplegables y es la más fiable.
 - Ritmo humano: pocas páginas, sin scraping masivo.
