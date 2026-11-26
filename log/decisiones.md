@@ -201,3 +201,11 @@ Criterio: precio máximo ≈ ventas recientes de jugadores SIN especialidad y TS
 - Stanke: 13,000 (FC UCJL), fuera por tope de 12,000. Sterjovski: descartado.
 - Seguimos líderes: Ziętarski 2,000; MacDonald 1,000; Shear 1,000 (autobid 45,000); Tucker 1,000; Quintanilla 5,000.
 - 22:36 HT — Stanke: Joan subió el tope a 16,500. Pujamos 14,000 y 16,500; el autobid de FC UCJL respondió 15,000 y 17,500. Retirados.
+
+## 26-nov 22:55 HT — nueva línea de compra: jugadas 8 con 17 años y 40–55 días (aprobado por Joan)
+- Análisis de variables: la edad en días es lo que más abarata. Jugadas 7 sola con 17a ≥25d: mediana 1,000 (8 de 10 ventas entre 1,000 y 3,000). Las secundarias en 5–6 suman ~25–30 mil al vender y cuestan mucho más al comprar.
+- Pujas: Miolli (PM8, D5, Unpredictable, 17a54d, TSI 1,600) 5,000, líderes; Taskov (PM8, D5, 17a41d, TSI 1,590) 9,000, líderes. Tope 15,000 c/u.
+- Respaldo si se pierden los dos: Parés, tope 2,000.
+- Personalidad revisada: Miolli "sympathetic", Taskov "pleasant" con honestidad "infamous" (más riesgo de tarjetas).
+- Sin comparables de PM8 a los 17 años: Transfer Compare quedó bloqueado por el control anti-robots.
+- Joan subió manualmente su puja por Stanke.
