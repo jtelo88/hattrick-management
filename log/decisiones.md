@@ -105,3 +105,21 @@ Criterio aprobado: ≤17a 30d, PM 7+, especialidad, defensa 5+ o pases 6+, tope 
 - Lo que separa barato de caro en la muestra: TSI (subnivel oculto) y días de edad. Ej.: TSI 1,530 17a3d → 419,000; TSI 1,160 17a3d → 27,000; TSI 1,100 17a15d → 5,000. Hay excepciones (TSI 1,200 → 401,000), así que hay un factor que no vemos.
 - Sörren Künzer (518267701): PM7, D6, W5, Unpredictable, TSI 1,430 → 84,660 con 57 pujas a 3.5 h del cierre.
 - Conclusión: no comprar premium todavía; primero medir reventa real con datos de jugadores de 18a/PM9-10.
+
+## 26-nov ~07:50 HT — formación y estudio de reventa
+
+- "Learn a formation": elegido 3-5-2 (aprobado por Joan). Experiencia 3-5-2 pasó de passable (6) a excellent (8). 4-4-2 sigue en solid (7).
+- Respuesta al ojeador de Bután Sub-21: aprobada por Joan pero NO enviada; el borrador original no quedó guardado, se le presenta de nuevo.
+
+### Estudio de reventa a los 18 años (Transfer Compare del juego, 10 últimas ventas por perfil, 4–25 nov)
+| Perfil a los 18 | Mediana | Promedio | Rango |
+|---|---|---|---|
+| PM9, resto bajo (mono) | 94,625 | 127,825 | 29,000–300,000 |
+| PM9 + defensa 6 | 125,500 | 116,800 | 8,000–225,000 |
+| PM9 + defensa 5 + pases 5 | 120,500 | 154,794 | 56,000–353,940 |
+| PM9 + defensa 7 | 232,000 | 281,418 | 148,000–720,000 |
+| PM10, resto bajo (mono) | 162,210 | 173,058 | 80,000–295,000 |
+| PM10 + defensa ≤6 + pases 6 | 494,800 | 484,218 | 367,000–638,000 |
+
+Lectura: incluso el mono-habilidad PM9–10 de 18 años se vende a 95,000–160,000 de mediana. Corrige lo dicho el 25-nov ("los PM6 baratos tienen poca reventa"): la reventa depende de llegar a PM9–10 cerca de los 18 años, no solo de las secundarias. Las secundarias (defensa 7, pases 6) duplican o triplican el precio.
+Sin verificar: cuántas semanas tarda nuestro entrenamiento (entrenador nivel 3, eficiencia 68%) en subir un nivel de PM; se medirá con las actualizaciones de los viernes.
