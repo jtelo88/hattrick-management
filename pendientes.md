@@ -17,6 +17,7 @@
 - [x] Juveniles iniciales: 15 jugadores (ver `docs/cantera-plantilla.md`).
 - [x] Liga juvenil asignada: Global Fun Academy.
 - [ ] Revisar calendario juvenil y proponer alineación del primer partido.
+- [ ] Base de precios: completar precio_final de data/subastas-seguidas.csv y ampliar data/ventas.csv en cada revisión (ver docs/base-de-precios.md).
 - [ ] Llamar al scout cuando se habilite (~28-nov) y proponer a Joan aceptar o rechazar el prospecto.
 - [x] Tarea de cantera cobrada.
 - [x] Manager License: 16 de 16 tareas cobradas.
