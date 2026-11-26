@@ -152,3 +152,11 @@ Sin verificar: cuántas semanas tarda nuestro entrenamiento (entrenador nivel 3,
 ## 26-nov 17:15 HT — sesión de Hattrick caducada
 - Al revisar Lambert (cierra 17:26 HT) la sesión estaba cerrada: no se pudo ver ni defender la puja. Pendiente que Joan vuelva a iniciar sesión.
 - Visto sin sesión: Leisibach pasó a Valencia Beach CF e Ibañez a Rozen Moon (precios finales por anotar).
+
+## 26-nov 20:36 HT — Joan volvió a iniciar sesión (servidor www87)
+- **Lambert y Goodwin ganados por 1,000 US$ cada uno** (extremos), ya en la plantilla.
+- Compras acumuladas: 8 jugadores, 23,000 US$ en total. Caja: 257,968 US$.
+- Amestoy: As Ambrosiana 00 había pujado 12,000; respondimos 13,000 (líder). Cierra 27-nov 09:17 HT.
+- MacDonald (1,000), Shear (1,000 con autobid hasta 25,000), Tucker (1,000) y Quintanilla (5,000): seguimos líderes, sin rivales.
+- Stas sigue en 382,500. Leisibach → Valencia Beach CF; Ibañez → Rozen Moon (precio final no visible sin Supporter en la ficha; pendiente).
+- Joan ofreció dar usuario y clave para que Claude inicie sesión: rechazado (Claude no escribe contraseñas). Se mantiene el inicio de sesión manual.

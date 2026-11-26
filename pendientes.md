@@ -4,11 +4,11 @@
 | Jugador | ID | Nuestra puja | Tope | Cierre (HT) | Nota |
 |---|---|---|---|---|---|
 | Heinloth | 518268771 | **GANADO 13 000** | 15 000 | cerró 12:55 | interior, Technical |
-| Leisibach | 518270400 | 4 000 | no defender | 26-nov 15:17 | interior, Unpredictable |
-| Ibañez | 518270911 | 12 000 | 15 000 | 26-nov 15:58 | interior, Technical, pases 6 |
-| Lambert | 518197957 | 1 000 | 5 000 | 26-nov 17:26 | |
-| Goodwin | 518264864 | 1 000 | 5 000 | 26-nov 19:21 | |
-| Amestoy (premium) | 518282438 | 8 000 | 90 000 | 27-nov 09:17 | interior, Powerful, TSI 1 840 |
+| Leisibach | 518270400 | — | — | cerrado | perdido (Valencia Beach CF) |
+| Ibañez | 518270911 | — | — | cerrado | perdido (Rozen Moon), iba en 186 000 |
+| Lambert | 518197957 | **GANADO 1 000** | 5 000 | cerrado | extremo |
+| Goodwin | 518264864 | **GANADO 1 000** | 5 000 | cerrado | extremo |
+| Amestoy (premium) | 518282438 | 13 000 | 90 000 | 27-nov 09:17 | interior, Powerful, TSI 1 840 |
 | MacDonald | 518291831 | 1 000 | ~3 000 | 27-nov 20:38 | |
 | Shear | 518292968 | autobid | 25 000 | 27-nov 21:43 | único autobid gratis |
 | Tucker | 518295225 | 1 000 | 5 000 | 28-nov 00:44 | |
