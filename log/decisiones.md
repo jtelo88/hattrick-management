@@ -148,3 +148,7 @@ Sin verificar: cuántas semanas tarda nuestro entrenamiento (entrenador nivel 3,
 - Stas: **382,500** (26 pujas) a 6 h del cierre. Confirmado que retirarse en 30,000 fue correcto.
 - Amestoy: seguimos líderes con 8,000 (8 pujas), cierra 27-nov 09:17 HT.
 - Lección: el precio a horas del cierre no dice nada. Ibañez pasó de 12,000 a 186,000 en 7 h; Stas de 7,000 a 382,500. Los jugadores con TSI alto (≥1,250) se disparan al final; Heinloth (TSI 700) cerró en 13,000. Esperar lo mismo con Amestoy (TSI 1,840): es probable que supere el tope de 90,000.
+
+## 26-nov 17:15 HT — sesión de Hattrick caducada
+- Al revisar Lambert (cierra 17:26 HT) la sesión estaba cerrada: no se pudo ver ni defender la puja. Pendiente que Joan vuelva a iniciar sesión.
+- Visto sin sesión: Leisibach pasó a Valencia Beach CF e Ibañez a Rozen Moon (precios finales por anotar).
