@@ -131,3 +131,8 @@ Sin verificar: cuántas semanas tarda nuestro entrenamiento (entrenador nivel 3,
 - Descartados: Künzer (84,660 a 3 h del cierre, superará el tope), Vaccarezza (140,760), Spica/Pietarila/Sønderby (>1M).
 - Alternativas sin especialidad vistas: Edoardo Stas (518261824, 17a8d, PM7, D7, TSI 1,580, 7,000, cierra 26-nov 21:15 HT); Lajos Szabó (518261365, PM7, D6, P5, TSI 1,460, 3,000, cierra 19:15 HT). No pujadas (fuera del perfil aprobado).
 - Hipótesis sin verificar: las diferencias extremas de precio entre jugadores con las mismas habilidades visibles podrían deberse a la nacionalidad (valor para selecciones Sub-21).
+
+## 26-nov ~08:00 HT — Edoardo Stas (aprobado por Joan, tope 15,000, en lugar de seguir defendiendo a Leisibach)
+- Stas (518261824): 17a8d, PM7, D7, sin especialidad, TSI 1,580, cierra 26-nov 21:15 HT.
+- Pujamos 8,000 / 10,000 / 12,000 / 14,000; el rival SCCP Coringão tiene autobid y quedó en 15,000. Siguiente puja sería 16,000 (> tope). Detenido. Pendiente: Joan decide si sube el tope.
+- Leisibach: no se defiende más (si nadie supera los 4,000, se gana igual; la puja no se puede retirar).
