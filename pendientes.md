@@ -44,6 +44,8 @@
 - [ ] Revisión en la semana 6: calidad de prospectos y 2.º scout.
 
 ## Por verificar (solo lectura)
+- [ ] Que la orden individual (defensivo, ofensivo, hacia el centro) no cambie el % de entrenamiento del cupo.
+- [ ] Cotejar la tabla de contribución con "Predict ratings" en el partido del 29-nov.
 - [ ] Taquilla y asistencia reales del 29-nov.
 - [ ] Si el "Season 95 Incentive" (6 500) es semanal.
 - [ ] Si la primera actualización económica cobra sueldos y staff completos.
