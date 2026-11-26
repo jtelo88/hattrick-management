@@ -89,3 +89,19 @@ Orden cronológico. Cada entrada: qué se decidió, quién aprobó y qué se eje
 - Mensaje de un ojeador de la sub-21 de Bután (probablemente por Kinley Yangki): recomienda entrenador 4–5, asistentes 5, médico, stamina 10% y dos partidos semanales. Ya se cumple stamina y médico; el resto se descarta por costo. Respuesta redactada, sin enviar.
 - Mensaje del juego "Learn a formation" pendiente (acción requerida): recomendado 3-5-2.
 - Caja 273 600 US$. Estudio de mercado de aprendices: ver `docs/evaluacion-jugadores.md` y `docs/estrategia-inversion.md`.
+
+## 26-nov (mañana HT, ~07:45) — compra de mediocampistas con especialidad (aprobado: puntos 2 y 3)
+
+Criterio aprobado: ≤17a 30d, PM 7+, especialidad, defensa 5+ o pases 6+, tope 15,000 US$ c/u, máx. 3 (45,000). MacDonald: tope bajado a ~3,000.
+
+| Jugador | ID | Perfil | TSI | Puja nuestra | Cierre (HT) | Nota |
+|---|---|---|---|---|---|---|
+| Samuel Felix Heinloth | 518268771 | 17a4d, PM7, D6, Technical | 700 | 11,000 (líder) | 26-nov 12:54 | bigcat33 tenía autobid hasta 10,000; lo superamos |
+| Georges Leisibach | 518270400 | 17a3d, PM7, D5, Unpredictable | 660 | 4,000 (líder) | 26-nov 15:17 | |
+| Adalberto Ibañez | 518270911 | 17a21d, PM7, D5, P6, Technical | 1,260 | 12,000 (líder) | 26-nov 15:58 | 11 pujas previas, probable que supere el tope |
+
+### Evaluación "jugador premium para reventa" (sin compra, pendiente de decisión)
+- Transfer Compare (herramienta del juego) para 17a ≤24d, PM7/D6: últimas 10 ventas entre 5,000 y 1,506,000 US$; mediana 107,610; promedio 301,222. Misma habilidad visible, precio 300× distinto.
+- Lo que separa barato de caro en la muestra: TSI (subnivel oculto) y días de edad. Ej.: TSI 1,530 17a3d → 419,000; TSI 1,160 17a3d → 27,000; TSI 1,100 17a15d → 5,000. Hay excepciones (TSI 1,200 → 401,000), así que hay un factor que no vemos.
+- Sörren Künzer (518267701): PM7, D6, W5, Unpredictable, TSI 1,430 → 84,660 con 57 pujas a 3.5 h del cierre.
+- Conclusión: no comprar premium todavía; primero medir reventa real con datos de jugadores de 18a/PM9-10.

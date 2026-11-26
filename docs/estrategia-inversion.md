@@ -1,6 +1,6 @@
 # Estrategia para el dinero disponible (26-nov-2026)
 
-Estado: **propuesta, pendiente de aprobación de Joan**.
+Estado: **puntos 2 y 3 aprobados y en ejecución desde 26-nov; premium pendiente de Joan**.
 
 ## Situación
 - Caja: 273 600 US$ [juego]. Incluye 225 000 de bonos de Manager License (las 16 tareas cobradas), no recurrentes.

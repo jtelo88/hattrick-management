@@ -40,3 +40,8 @@
 - Tras cada partido: registrar resultado, taquilla y lesiones.
 - Jueves (antes del viernes 03:30 HT): confirmar entrenamiento y minutos de los aprendices.
 - Tras la actualización económica: nuevo snapshot de finanzas y actualizar `docs/presupuesto.md`.
+
+## Añadido 26-nov ~07:45 HT
+- Subastas nuevas: Heinloth (12:54 HT), Leisibach (15:17), Ibañez (15:58) — tope 15,000 c/u.
+- MacDonald: no subir de ~3,000.
+- Premium para reventa: decidir tras estudiar precios de venta de 18a PM9–10 (ver log 26-nov).
