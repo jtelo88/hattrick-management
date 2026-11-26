@@ -1,6 +1,6 @@
 # Estrategia para el dinero disponible (26-nov-2026)
 
-Estado: **puntos 2 y 3 aprobados y en ejecución desde 26-nov; premium pendiente de Joan**.
+Estado: **en ejecución**. Puntos 1–3 aprobados por Joan el 26-nov; premium aprobado con tope 90 000 (ver "Ejecución" al final).
 
 ## Situación
 - Caja: 273 600 US$ [juego]. Incluye 225 000 de bonos de Manager License (las 16 tareas cobradas), no recurrentes.
@@ -39,3 +39,21 @@ Estado: **puntos 2 y 3 aprobados y en ejecución desde 26-nov; premium pendiente
 | Aurélien Aymé | 17a 10d | PM 7, defensa 5, sin especialidad | 12 000 (salida) | 09:45 |
 
 Aparecen perfiles así a diario (la búsqueda devolvió 4 páginas).
+
+
+## Ejecución (26-nov-2026, 07:45–08:10 HT)
+| Jugador | Perfil | TSI | Tope | Estado al último vistazo |
+|---|---|---|---|---|
+| Samuel Felix Heinloth | 17a4d, PM7, D6, Technical | 700 | 15 000 | Líder con 11 000 (superamos autobid rival de 10 000). Cierra 26-nov 12:54 |
+| Georges Leisibach | 17a3d, PM7, D5, Unpredictable | 660 | — | Líder con 4 000; ya no se defiende. Cierra 15:17 |
+| Adalberto Ibañez | 17a21d, PM7, D5, P6, Technical | 1 260 | 15 000 | Líder con 12 000. Cierra 15:58 |
+| **Georges Amestoy (premium)** | 17a2d, PM7, D6, Sc5, P2, Powerful | 1 840 | 90 000 | Líder con 8 000. Cierra 27-nov 09:17 |
+| Edoardo Stas | 17a8d, PM7, D7, sin especialidad | 1 580 | 30 000 | **Perdido de momento**: autobid rival en 31 000; nos retiramos |
+
+Compromiso máximo si se gana todo al tope: 15 000 + 4 000 + 15 000 + 90 000 = 124 000, más las subastas del 25-nov (hasta ~53 000). Caja resultante mínima ≈ 96 000, por debajo de la reserva objetivo de 150 000 solo en el peor caso.
+
+## Correcciones al análisis inicial
+- Dije que los PM6 baratos de una sola habilidad tenían poca reventa (~15 000). Las ventas cerradas muestran medianas de 94 625 (PM9 mono) y 162 210 (PM10 mono) a los 18 años. El dato de 15 000 era una subasta en curso, no un precio final.
+- Las secundarias sí multiplican: PM9 + defensa 7 → mediana 232 000; PM10 + pases 6 → 494 800.
+- El premium se subió de 60 000 a 90 000 de tope y el criterio pasó a incluir TSI ≥1 400.
+- Sin verificar: velocidad real de entrenamiento con nuestro staff (se mide los viernes).

@@ -1,48 +1,61 @@
-# Pendientes
+# Pendientes (actualizado 26-nov-2026 ~08:10 HT)
+
+## Subastas con puja nuestra
+| Jugador | ID | Nuestra puja | Tope | Cierre (HT) | Nota |
+|---|---|---|---|---|---|
+| Heinloth | 518268771 | 11 000 | 15 000 | 26-nov 12:54 | interior, Technical |
+| Leisibach | 518270400 | 4 000 | no defender | 26-nov 15:17 | interior, Unpredictable |
+| Ibañez | 518270911 | 12 000 | 15 000 | 26-nov 15:58 | interior, Technical, pases 6 |
+| Lambert | 518197957 | 1 000 | 5 000 | 26-nov 17:26 | |
+| Goodwin | 518264864 | 1 000 | 5 000 | 26-nov 19:21 | |
+| Amestoy (premium) | 518282438 | 8 000 | 90 000 | 27-nov 09:17 | interior, Powerful, TSI 1 840 |
+| MacDonald | 518291831 | 1 000 | ~3 000 | 27-nov 20:38 | |
+| Shear | 518292968 | autobid | 25 000 | 27-nov 21:43 | único autobid gratis |
+| Tucker | 518295225 | 1 000 | 5 000 | 28-nov 00:44 | |
+| Quintanilla | 518312843 | 5 000 | 10 000 | 29-nov 00:31 | |
+
+- Stas (518261824): retirados en 30 000; rival con autobid en 31 000. Cierra 26-nov 21:15. Joan puede dar un tope final.
+- Freeman (518180455) en venta: 2 000, cierra 29-nov 07:04.
+
+## Revisiones programadas (hora Florida; requieren app abierta y sesión activa)
+- 26-nov 06:40 Heinloth · 09:05 Leisibach/Ibañez · 11:15 Lambert · 13:00 Goodwin · 21:00 Amestoy
+- 27-nov 03:00 cierre Amestoy · 10:00 **resumen de compras y base de precios** · 14:15 MacDonald/Shear · 18:25 Tucker + alineación
+- 28-nov 10:00 cantera + alineación del domingo · 18:05 Quintanilla, Freeman, despidos
 
 ## Por decidir (Joan)
-- [x] Fichajes metidos en el amistoso del 25-nov.
-- [ ] Alineación 4-4-2 para la liga del 29-nov vs Alabama Bears (Claude la propone).
-- [x] Red de scouts reemplazada por cantera propia (25-nov).
-- [ ] Confirmar "no despedir jugadores por ahora".
+- [ ] Tope final para Stas, o dejarlo ir (recomendación: dejarlo ir).
+- [ ] Reasignación de los 6 cupos de interior cuando cierren las subastas, y qué sobrantes vender o despedir (Algeier primero).
+- [ ] Prospecto del scout juvenil (~28-nov): aceptar o rechazar.
 - [ ] ¿Escribir a soporte de Hattrick sobre el uso de un asistente de IA por navegador?
 
-## Compras en curso
-- [ ] Seguir las 6 subastas hasta su cierre (ver `docs/plan-grupo-entrenamiento.md`).
-- [x] Bajas ejecutadas: Ollis, Pauken-Elliott, O'Connor. Freeman en venta.
-- [ ] Despedir a Castañeda (al llegar Shear y MacDonald) y a Beasley (al llegar los extremos).
-- [ ] Fijar 3-5-2 de liga para el 29-nov cuando lleguen los fichajes.
+## Aprobado, esperando disparador
+- [ ] Despedir a Castañeda (518180448) cuando lleguen Shear/MacDonald.
+- [ ] Despedir a Beasley (518180454) cuando lleguen los extremos.
+- [ ] Alineación de liga 29-nov vs Alabama Bears en 3-5-2 con aprendices ("Predict ratings" antes).
+
+## Base de precios
+- [ ] Completar `precio_final` y `ganador` en `data/subastas-seguidas.csv` al cierre de cada subasta.
+- [ ] Ampliar `data/ventas.csv`: 17a PM7+D7, 17a extremo 7, 19a PM10–11.
+- [ ] Verificar la hipótesis de nacionalidad en los precios de más de 1 000 000.
 
 ## Cantera
-- [x] Juveniles iniciales: 15 jugadores (ver `docs/cantera-plantilla.md`).
-- [x] Liga juvenil asignada: Global Fun Academy.
-- [ ] Revisar calendario juvenil y proponer alineación del primer partido.
-- [ ] Base de precios: completar precio_final de data/subastas-seguidas.csv y ampliar data/ventas.csv en cada revisión (ver docs/base-de-precios.md).
-- [ ] Llamar al scout cuando se habilite (~28-nov) y proponer a Joan aceptar o rechazar el prospecto.
-- [x] Tarea de cantera cobrada.
-- [x] Manager License: 16 de 16 tareas cobradas.
-- [ ] ¿Vender a Ollis de todos modos? (ya no hace falta para el bono)
+- [ ] Alineación del primer partido juvenil cuando haya calendario.
 - [ ] Reservar amistoso juvenil a partir del 30-nov.
-- [ ] Revisión en la semana 6 (primer punto de salida): calidad de prospectos y 2.º scout.
+- [ ] Revisión en la semana 6: calidad de prospectos y 2.º scout.
 
-## Por verificar (Claude, solo lectura)
-- [x] Resultado de las pujas: las 4 subastas ganadas (Yangki, Bajer, Algeier, Vohidov).
+## Por verificar (solo lectura)
+- [ ] Taquilla y asistencia reales del 29-nov.
 - [ ] Si el "Season 95 Incentive" (6 500) es semanal.
-- [x] Gasto "Otros" (2 000): "Promoted Youth", único.
-- [ ] Asistencia y taquilla reales del 29-nov.
 - [ ] Si la primera actualización económica cobra sueldos y staff completos.
-- [ ] Eficiencia de entrenamiento con los 2 asistentes.
-- [x] Reglas de ascenso: 1.º y 2.º suben directo; 3.º y 4.º juegan clasificación.
-- [ ] Costo de cambiar de entrenador y de contratar médico.
-- [ ] Costo y efectos de despedir jugadores y de desactivar la red de scouts.
-- [ ] Tareas 11–16 de Manager License y sus bonos.
+- [ ] Velocidad real de entrenamiento (viernes 03:30 HT): semanas por nivel de playmaking.
 
-## Rutina semanal propuesta
-- Tras cada partido: registrar resultado, taquilla y lesiones.
+## Cerrado el 26-nov
+- [x] "Learn a formation": 3-5-2 → excellent (8).
+- [x] Ojeador de Bután Sub-21: no se responde.
+- [x] Estudio de reventa a los 18 años y base de precios inicial.
+- [x] Manager License 16/16, bajas de Ollis, Pauken-Elliott y O'Connor, cantera creada (25-nov).
+
+## Rutina semanal
+- Tras cada partido: resultado, taquilla y lesiones.
 - Jueves (antes del viernes 03:30 HT): confirmar entrenamiento y minutos de los aprendices.
-- Tras la actualización económica: nuevo snapshot de finanzas y actualizar `docs/presupuesto.md`.
-
-## Añadido 26-nov ~07:45 HT
-- Subastas nuevas: Heinloth (12:54 HT), Leisibach (15:17), Ibañez (15:58) — tope 15,000 c/u.
-- MacDonald: no subir de ~3,000.
-- Premium para reventa: decidir tras estudiar precios de venta de 18a PM9–10 (ver log 26-nov).
+- Tras la actualización económica: snapshot de finanzas y `docs/presupuesto.md`.

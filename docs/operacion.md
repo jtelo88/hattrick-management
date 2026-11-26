@@ -2,7 +2,10 @@
 
 ## Aprobaciones
 - Claude propone el plan y **ejecuta solo con aprobación de Joan**.
-- En subastas, Joan aprueba criterios y topes por adelantado; Claude hace una sola puja manual por subasta y no usa autopuja ("Max bid").
+- En subastas, Joan aprueba criterios y topes por adelantado; Claude puja dentro del tope y se detiene al alcanzarlo. Subir un tope requiere nueva aprobación.
+- Solo hay **un autobid ("Max bid") gratis a la vez**; los adicionales cuestan 2 Credits (dinero real) y no se compran. El resto son pujas manuales.
+- Pelear contra el autobid de un rival solo revela su techo subiendo el precio: decidir el tope antes y no perseguir (caso Stas, 26-nov).
+- Mensajes a otros mánagers: nunca se envían sin texto aprobado por Joan. Al ojeador de Bután Sub-21 se decidió no responder.
 - Acciones irreversibles (despedir, vender, romper contratos) siempre se confirman antes.
 
 ## Acceso
@@ -11,6 +14,11 @@
 - La sesión vive en un servidor concreto (`www87.hattrick.org` el 25-nov). Navegar a otro `wwwNN` la cierra: usar siempre el host de la sesión activa.
 - Para alineaciones, la versión simple (`/Club/Matches/MatchOrder/Simple.aspx?MatchID=…`) usa menús desplegables y es la más fiable.
 - Ritmo humano: pocas páginas, sin scraping masivo.
+
+## Seguimiento programado
+- Las revisiones se programan como mensajes diferidos a esta sesión. **Solo funcionan con la app de escritorio abierta y la sesión de Hattrick activa** (el 25-nov se perdió a Conor Ross por sesión cerrada).
+- Un clasificador de seguridad bloqueó el clic de "Add your team to pool"; no se rodea: Joan hace ese clic.
+- No se ingresan credenciales de Hattrick en sitios externos (p. ej. trackers).
 
 ## Riesgos
 - Hattrick negó a Joan el acceso a la API CHPP.

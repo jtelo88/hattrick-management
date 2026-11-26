@@ -31,20 +31,23 @@ Lecturas útiles:
 - Reparto de ocasiones: `P = M_a³ / (M_a³ + M_b³)` con las calificaciones de mediocampo.
 - Conversión de una ocasión: `P = 0,92 · a^3,5 / (a^3,5 + d^3,5)`, restando 0,75 a las calificaciones mostradas de ataque `a` y defensa `d`.
 
-## Qué da valor de mercado a un aprendiz de playmaking [juego, mercado del 26-nov-2026]
-Comparando subastas de 17 y 18 años:
+## Qué da valor de mercado a un aprendiz de playmaking [juego, Transfer Compare, ventas cerradas 4–25 nov 2026]
 
-| Perfil | Precio con pujas reales |
-|---|---|
-| 17 años, PM 6, sin especialidad ni secundarias | 0 – 3 000 |
-| 17 años, PM 7, defensa 5–6, con o sin especialidad | 2 500 – 12 600 (con pocas pujas) |
-| 17 años, PM 7, defensa 6, especialidad, 3–7 días de edad | 50 000 – 115 000 y más (50–200 pujas) |
-| 18 años, PM 10, sin especialidad, una sola habilidad | ~15 000 (subasta en curso) |
-| 18 años, PM 9–10, con especialidad | 150 000 – 245 000 |
-| 18 años, PM 10, defensa 7, especialidad | 677 000 – 873 000 |
+| Perfil | n | Percentil 25 | Mediana | Percentil 75 |
+|---|---|---|---|---|
+| 17 años, PM7 + defensa 6 | 17 | 20 500 | 96 900 | 325 000 |
+| 18 años, PM9 sola | 10 | 36 750 | 94 625 | 211 750 |
+| 18 años, PM9 + defensa 6 | 10 | 38 250 | 125 500 | 180 500 |
+| 18 años, PM9 + pases 5 | 10 | 83 750 | 120 500 | 238 000 |
+| 18 años, PM9 + defensa 7 | 10 | 191 250 | 232 000 | 301 044 |
+| 18 años, PM10 sola | 10 | 107 355 | 162 210 | 254 625 |
+| 18 años, PM10 + pases 6 | 10 | 394 095 | 494 800 | 527 825 |
 
-- La **especialidad** y la **defensa secundaria** multiplican el precio mucho más que un nivel extra de playmaking.
-- Advertencia: algunos precios de la extracción salieron contaminados con dígitos del nombre del club pujador; solo se listan aquí los inequívocos.
+- Factores que mueven el precio dentro de un mismo perfil: **TSI** (subnivel oculto), **días de edad**, especialidad, forma. Con las mismas habilidades visibles el precio varió hasta 300×.
+- Hipótesis sin verificar: nacionalidad (demanda de selecciones Sub-21) explica los casos de más de 1 000 000.
+- El precio a horas del cierre no es el precio final; por eso se registran ambos en `data/subastas-seguidas.csv`.
+- Esta tabla sustituye a la del 26-nov temprano, que mezclaba subastas en curso con ventas reales.
+- Datos y método: `data/ventas.csv`, `docs/base-de-precios.md`.
 
 ## Herramientas externas
 - Hattrick Organizer (HO) y similares son aplicaciones CHPP: requieren que Joan autorice su cuenta en Hattrick. Claude no ingresa credenciales. No son necesarias por ahora: el juego ya trae predicción de calificaciones y posiciones recomendadas.

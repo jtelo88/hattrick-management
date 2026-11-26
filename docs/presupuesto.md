@@ -34,7 +34,7 @@ El gasto "Otros" de 2 000 era "Promoted Youth": único, ya no cuenta como recurr
 5. Sueldos de jugadores: ahorro mínimo.
 
 ## Regla vigente
-No gastar en fichajes ni staff nuevo hasta ver la taquilla del 29-nov y la primera actualización económica completa.
+Desde el 26-nov Joan aprobó invertir en aprendices (hasta 3 × 15 000 y un premium de hasta 90 000). Siguen en espera, hasta ver la taquilla del 29-nov: staff nuevo y veteranos. Reserva objetivo: 150 000 US$.
 
 ## Actualización 26-nov-2026
 - Staff: 15 200 US$/sem (entrenador 5 000 + 2 asistentes 8 160 + médico 2 040).

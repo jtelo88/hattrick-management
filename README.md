@@ -14,18 +14,25 @@ Control y documentación de **Satoshian FC** (Hattrick.org, TeamID 3524617, seri
 | `docs/guias-comunidad.md` | Qué recomiendan las guías de la comunidad y en qué diferimos. |
 | `docs/evaluacion-jugadores.md` | Cómo evaluar jugadores y alineaciones: herramientas del juego, contribuciones por puesto, qué da valor de mercado. |
 | `docs/estrategia-inversion.md` | En qué invertir la caja disponible y por qué. |
+| `docs/base-de-precios.md` + `data/` | Base de precios de transferencias: ventas cerradas (`data/ventas.csv`) y subastas seguidas (`data/subastas-seguidas.csv`). |
+| `docs/plan-grupo-entrenamiento.md` | Plan del grupo de entrenamiento (interiores y extremos) y su ejecución. |
+| `docs/cantera-plantilla.md` | Plantilla de la cantera. |
 | `docs/operacion.md` | Reglas de operación: aprobaciones, acceso, límites y riesgos. |
 | `log/decisiones.md` | Bitácora cronológica de decisiones y cambios ejecutados en el juego. |
 | `pendientes.md` | Lo que falta verificar o decidir. |
 
-## Estado actual (25-nov-2026)
+## Estado actual (26-nov-2026, ~08:10 HT)
 
-- Temporada 96, semana 3 de 16. Posición: 2.º en VI.78.
-- Caja: 273 600 US$ (26-nov). Margen semanal sin taquilla: entre −2 600 y +3 900 US$ según el incentivo de sponsor.
-- Plantilla: 22 jugadores (3 interiores de 17 años fichados el 25-nov; un cuarto en proceso).
-- Entrenamiento: Playmaking 100% / stamina 15%.
-- Compras de jugadores: **en pausa** por decisión de Joan.
+- Temporada 96, semana 3 de 16. Posición: 2.º en VI.78 (suben 1.º y 2.º).
+- Caja: 273 600 US$ (antes de pagar las subastas en curso). Gasto recurrente ≈ 40 800 US$/sem; margen sin taquilla entre −3 800 y +2 700.
+- Plantilla: 21 jugadores. Aprendices actuales: Yangki (PM7), Bajer, Algeier, Vohidov (PM6), Cabrera (extremo 7).
+- Entrenamiento: Playmaking 100% / stamina 10%, eficiencia 68%. Se juega 3-5-2 en liga y amistoso para llenar los 6 cupos.
+- Experiencia de formación: 3-5-2 excellent (8) tras "Learn a formation"; 4-4-2 solid (7).
+- **Compras activas** (aprobadas por Joan): 10 subastas con puja nuestra; ver tabla en `pendientes.md`.
+- Estrategia de inversión: aprendices con valor de reventa + un premium (tope 90 000). Ver `docs/estrategia-inversion.md`.
+- Base de precios iniciada: 77 ventas cerradas en `data/ventas.csv`.
 - Cantera: Satoshian Academy (YouthTeamID 3296580) activa desde el 25-nov, 1 scout, Playmaking + Passing.
+- Próximos partidos: liga 29-nov vs Alabama Bears; amistoso 2-dic vs Paulvan.
 - Levantamientos: [`base`](snapshots/2026-11-25-base.md) · [`actualización tarde`](snapshots/2026-11-25-actualizacion-tarde.md)
 
 ## Convenciones
