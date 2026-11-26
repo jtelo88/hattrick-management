@@ -84,3 +84,8 @@ Orden cronológico. Cada entrada: qué se decidió, quién aprobó y qué se eje
 - Pendiente aprobado: despedir a Castañeda cuando lleguen Shear y MacDonald, y a Beasley cuando lleguen los extremos.
 - Experiencia de formación tras el amistoso: 3-5-2 passable (6), 4-4-2 solid (7).
 - Decisión de Joan: liga del 29-nov en 3-5-2 con aprendices, priorizando entrenamiento.
+
+### 26-nov ~07:30 HT — análisis de inversión (sin ejecutar)
+- Mensaje de un ojeador de la sub-21 de Bután (probablemente por Kinley Yangki): recomienda entrenador 4–5, asistentes 5, médico, stamina 10% y dos partidos semanales. Ya se cumple stamina y médico; el resto se descarta por costo. Respuesta redactada, sin enviar.
+- Mensaje del juego "Learn a formation" pendiente (acción requerida): recomendado 3-5-2.
+- Caja 273 600 US$. Estudio de mercado de aprendices: ver `docs/evaluacion-jugadores.md` y `docs/estrategia-inversion.md`.
