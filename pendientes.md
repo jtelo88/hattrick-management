@@ -1,21 +1,18 @@
 # Pendientes (actualizado 26-nov-2026 ~08:10 HT)
 
-## Subastas con puja nuestra
+## Subastas con puja nuestra (26-nov 22:06 HT)
 | Jugador | ID | Nuestra puja | Tope | Cierre (HT) | Nota |
 |---|---|---|---|---|---|
-| Heinloth | 518268771 | **GANADO 13 000** | 15 000 | cerró 12:55 | interior, Technical |
-| Leisibach | 518270400 | — | — | cerrado | perdido (Valencia Beach CF) |
-| Ibañez | 518270911 | — | — | cerrado | perdido (Rozen Moon), iba en 186 000 |
-| Lambert | 518197957 | **GANADO 1 000** | 5 000 | cerrado | extremo |
-| Goodwin | 518264864 | **GANADO 1 000** | 5 000 | cerrado | extremo |
-| Amestoy (premium) | 518282438 | 13 000 | 90 000 | 27-nov 09:17 | interior, Powerful, TSI 1 840 |
-| MacDonald | 518291831 | 1 000 | ~3 000 | 27-nov 20:38 | |
-| Shear | 518292968 | autobid | 25 000 | 27-nov 21:43 | único autobid gratis |
-| Tucker | 518295225 | 1 000 | 5 000 | 28-nov 00:44 | |
-| Quintanilla | 518312843 | 5 000 | 10 000 | 29-nov 00:31 | |
+| Ziętarski | 518280759 | 2 000 (líder) | 8 000 | 27-nov 05:54 | interior, defensa 5, pases 5 |
+| Amestoy | 518282438 | 13 000 (líder) | **40 000** | 27-nov 09:17 | interior, Powerful, TSI 1 840 |
+| MacDonald | 518291831 | 1 000 (líder) | 3 000 | 27-nov 20:38 | interior |
+| Shear | 518292968 | autobid | **45 000** | 27-nov 21:43 | interior, pases 5 |
+| Tucker | 518295225 | 1 000 (líder) | no defender | 28-nov 00:44 | extremo |
+| Quintanilla | 518312843 | 5 000 (líder) | no defender | 29-nov 00:31 | extremo 8 |
 
-- Stas (518261824): retirados en 30 000; rival con autobid en 31 000. Cierra 26-nov 21:15. Joan puede dar un tope final.
-- Freeman (518180455) en venta: 2 000, cierra 29-nov 07:04.
+- Comprados: Heinloth 13 000, Lambert 1 000, Goodwin 1 000. Perdidos o descartados: Leisibach, Ibañez, Stas, Stanke, Sterjovski.
+- Freeman (518180455) en venta: 2 000, cierra 29-nov 07:04, 0 visitas.
+- Regla aprobada para compras futuras: interior de 17 años y ≤15 días, jugadas 7, defensa 6 o pases 5+, TSI ≤1 050, tope 15 000 (20 000 con especialidad o pases 6), revisando Transfer Compare y personalidad; máximo 10 aprendices de jugadas.
 
 ## Revisiones programadas (hora Florida; requieren app abierta y sesión activa)
 - 26-nov 06:40 Heinloth · 09:05 Leisibach/Ibañez · 11:15 Lambert · 13:00 Goodwin · 21:00 Amestoy

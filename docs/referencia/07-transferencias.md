@@ -47,6 +47,13 @@ La ficha de cada jugador muestra cuánto nos quedaría al venderlo [oficial]: **
 - "Potencial de selección" es un factor oficial del valor: explica los precios de más de 1 000 000 en juveniles de ciertos países [inferencia].
 - Datos: `data/ventas.csv`, `data/subastas-seguidas.csv`, `docs/base-de-precios.md`.
 
+## Edad y precio [juego, Transfer Compare, 26-nov]
+- Jugadas 10 sin secundarias: mediana de 162 210 a los 18 años y de **48 000 a los 19**. El mismo jugador pierde unos dos tercios de su precio al cumplir 19.
+- Por eso se compra con 17 años y pocos días y se vende antes de los 19.
+- La especialidad separa los precios dentro de un mismo perfil: en jugadas 7 + pases 5 de 17 años, sin especialidad se vendieron entre 5 000 y 157 000; con especialidad, entre 157 000 y 1 010 000.
+- La ficha de cada jugador en venta muestra un "Estimated Value" (promedio de Transfer Compare). Es un promedio inflado por los casos extremos: usar la mediana y los comparables de TSI parecido.
+
 ## Reglas operativas que salen de aquí
+- Antes de pujar: Transfer Compare, TSI, especialidad y **personalidad** (no comprar "nasty fellow" ni "controversial person": riesgo de ánimo).
 - Un aprendiz comprado y revendido antes de 16 semanas paga más comisión: vender a las 16 semanas o más deja ~6–7% de costos totales; revender en la primera semana, ~14% o más.
 - Cada compra que no vaya a jugar es un riesgo de ánimo sin beneficio: comprar solo lo que entra en un cupo.

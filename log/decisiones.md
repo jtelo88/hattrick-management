@@ -177,3 +177,21 @@ Sin verificar: cuántas semanas tarda nuestro entrenamiento (entrenador nivel 3,
 - Estado: ánimo composed (4), confianza 5; afición 512 socios, "content", espera pelear el descenso. Entrenador Drew Cady: nivel 3, liderazgo weak (4). Caja 257 968.
 - Prueba de Supporter hasta el 23-dic-2026.
 - Pujas a las 21:10 HT: Amestoy 13 000 (líderes, 13 pujas); MacDonald 1 000; Shear 1 000 con autobid 25 000; Tucker 1 000; Quintanilla 5 000. Stas sigue en 382 500 a 5 min del cierre.
+
+## 26-nov 22:06 HT — topes ajustados con Transfer Compare (aprobado por Joan)
+Criterio: precio máximo ≈ ventas recientes de jugadores SIN especialidad y TSI parecido, y siempre muy por debajo de la reventa esperada a los 18 años.
+
+| Jugador | Comparables (Transfer Compare) | Tope | Acción |
+|---|---|---|---|
+| Shear (PM7 D5 P5 W5, TSI 1 350, sin esp.) | sin esp.: 40 000 / 51 000 / 54 060 / 98 600 / 157 000 (TSI 950–1 460); mediana del perfil 189 680 | 45 000 | Autobid subido de 25 000 a 45 000 |
+| Amestoy (PM7 D6, Powerful, TSI 1 840) | mediana 36 722; con esp. y TSI 1 310: 210 120 | 40 000 (antes 90 000) | Seguimos líderes con 13 000 |
+| MacDonald (PM7 D5, 17a29d, TSI 700) | mediana 1 000 | 3 000 | Sin cambio |
+| Stanke (PM7 D6, TSI 800) | sin esp.: 13 000 (TSI 910), 16 000 (1 170), 36 000 (1 050) | 12 000 | Pujamos 6/8/10/12 mil; autobid de FC UCJL quedó en 13 000. Retirados |
+| Ziętarski (PM7 D5 P5, TSI 880) | 1 000 / 2 001 / 4 000 con TSI ≤880; 40 000 con TSI 950 | 8 000 | Puja de 2 000, líderes |
+| Sterjovski (PM7 P6, TSI 1 040) | 1 000 / 3 000 / 26 000 / 79 500 | — | Descartado: "nasty fellow" (riesgo de ánimo). Nuestra puja de 5 000 fue superada |
+| Quintanilla (W8) | mediana 3 000 | no defender | Puja de 5 000 ya está sobre mercado |
+| Tucker (W6) | mediana 1 000 | no defender | — |
+
+- Dato de reventa añadido: jugadas 10 sin secundarias a los 19 años → mediana 48 000 (a los 18: 162 210). Vender antes de los 19.
+- Regla nueva: revisar la personalidad antes de pujar; no comprar "nasty fellow" ni "controversial person".
+- El juego mostró un control anti-robots en una consulta: se espacian las lecturas.
