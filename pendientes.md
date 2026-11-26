@@ -3,7 +3,7 @@
 ## Subastas con puja nuestra
 | Jugador | ID | Nuestra puja | Tope | Cierre (HT) | Nota |
 |---|---|---|---|---|---|
-| Heinloth | 518268771 | 11 000 | 15 000 | 26-nov 12:54 | interior, Technical |
+| Heinloth | 518268771 | **GANADO 13 000** | 15 000 | cerró 12:55 | interior, Technical |
 | Leisibach | 518270400 | 4 000 | no defender | 26-nov 15:17 | interior, Unpredictable |
 | Ibañez | 518270911 | 12 000 | 15 000 | 26-nov 15:58 | interior, Technical, pases 6 |
 | Lambert | 518197957 | 1 000 | 5 000 | 26-nov 17:26 | |

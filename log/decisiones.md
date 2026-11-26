@@ -137,3 +137,6 @@ Sin verificar: cuántas semanas tarda nuestro entrenamiento (entrenador nivel 3,
 - Pujamos 8,000 / 10,000 / 12,000 / 14,000; el rival SCCP Coringão tiene autobid y quedó en 15,000. Siguiente puja sería 16,000 (> tope). Detenido. Pendiente: Joan decide si sube el tope.
 - Leisibach: no se defiende más (si nadie supera los 4,000, se gana igual; la puja no se puede retirar).
 - Stas, tope subido a 30,000 por Joan (~08:05 HT): pujamos 16,000 / 22,000 / 27,000 / 30,000; el autobid de SCCP Coringão respondió siempre y quedó en 31,000. Detenido en el tope. Faltan ~13 h para el cierre.
+
+## 26-nov 12:56 HT — Heinloth ganado
+- A las 12:52 HT "Kareem e Abdul già al bar" pujó 12,000; respondimos 13,000 (tope 15,000). La subasta se extendió a 12:55 y cerró con nosotros como mejor postor: **13,000 US$**. Pendiente confirmar llegada a la plantilla.
