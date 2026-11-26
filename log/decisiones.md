@@ -67,3 +67,20 @@ Orden cronológico. Cada entrada: qué se decidió, quién aprobó y qué se eje
 - Joan: priorizar siempre el entrenamiento; quiere el mejor entrenamiento posible; aprueba bolsa de amistosos en casa; pide lista de despidos para aprobar.
 - Mercado de extremos de 17 años con extremo 8 (cualquier país, 59 listados; primera página): con pujas reales van de 3 000 a 147 900 US$ (los de una sola habilidad, 3 000–31 000); varios sin pujas con salida de 0–12 500. Sueldos de extranjeros 370–590. Rubén Quintanilla (EE. UU., 17a 0d, extremo 8, playmaking 3, sueldo 390, salida 5 000) está en precio de mercado.
 - Bolsa de amistosos: opciones vistas (país EE. UU., divisiones 1–6, sede Home, reglas Any). El clic de inscripción fue bloqueado por un control de seguridad de Claude; queda para que Joan lo pulse o lo confirme.
+
+### 26-nov 07:00 HT — ejecución aprobada por Joan
+| Acción | Resultado |
+|---|---|
+| Médico nivel 2, 16 semanas | Contratado: Lewis Jones, 2 040 US$/sem (recuperación +40%, lesión −15%). Staff total: 15 200 US$/sem |
+| Stamina de 15% a 10% | Guardado ("Training settings were changed"). Eficiencia de playmaking: 68% (era 64%) |
+| Puja por Rubén Quintanilla (tope 10 000) | 5 000 colocados; lidera Satoshian FC. Cierra 29-nov 00:31 HT |
+| Despido de Alexander Ollis | Ejecutado. El juego no mostró ningún costo; solo el aviso de irreversibilidad |
+| Despido de Darian Pauken-Elliott | Ejecutado |
+| Despido de Rick O'Connor | Ejecutado |
+| Venta de David Freeman | Listado con salida de 2 000 US$; cierra 29-nov 07:04 HT. Retención 85,41% |
+| Bolsa de amistosos | Joan pulsó el botón. Amistoso reservado: Paulvan (VI), 2-dic 23:20 HT, en Freezzz4you |
+
+- Plantilla: 21 jugadores; sueldos 8 496 US$/sem.
+- Pendiente aprobado: despedir a Castañeda cuando lleguen Shear y MacDonald, y a Beasley cuando lleguen los extremos.
+- Experiencia de formación tras el amistoso: 3-5-2 passable (6), 4-4-2 solid (7).
+- Decisión de Joan: liga del 29-nov en 3-5-2 con aprendices, priorizando entrenamiento.

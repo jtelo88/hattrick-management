@@ -9,7 +9,8 @@
 
 ## Compras en curso
 - [ ] Seguir las 6 subastas hasta su cierre (ver `docs/plan-grupo-entrenamiento.md`).
-- [ ] Lista de bajas: Joan quiere reducir nómina; proponer a quién vender y a quién despedir.
+- [x] Bajas ejecutadas: Ollis, Pauken-Elliott, O'Connor. Freeman en venta.
+- [ ] Despedir a Castañeda (al llegar Shear y MacDonald) y a Beasley (al llegar los extremos).
 - [ ] Fijar 3-5-2 de liga para el 29-nov cuando lleguen los fichajes.
 
 ## Cantera

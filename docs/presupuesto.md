@@ -35,3 +35,10 @@ El gasto "Otros" de 2 000 era "Promoted Youth": único, ya no cuenta como recurr
 
 ## Regla vigente
 No gastar en fichajes ni staff nuevo hasta ver la taquilla del 29-nov y la primera actualización económica completa.
+
+## Actualización 26-nov-2026
+- Staff: 15 200 US$/sem (entrenador 5 000 + 2 asistentes 8 160 + médico 2 040).
+- Sueldos de plantilla: 8 496 US$/sem (21 jugadores, tras 3 despidos y el fichaje de Cabrera).
+- Cantera: 10 000 US$/sem. Estadio: 7 100 US$/sem.
+- **Gasto recurrente: ≈ 40 800 US$/sem**, frente a 37 000 de sponsor fijo (43 500 con incentivo). Margen sin taquilla: entre −3 800 y +2 700.
+- Variará con los fichajes en curso (hasta 5 jugadores, ~1 700 US$/sem) y los dos despidos pendientes (−630).
