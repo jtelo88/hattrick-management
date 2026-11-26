@@ -209,3 +209,6 @@ Criterio: precio máximo ≈ ventas recientes de jugadores SIN especialidad y TS
 - Personalidad revisada: Miolli "sympathetic", Taskov "pleasant" con honestidad "infamous" (más riesgo de tarjetas).
 - Sin comparables de PM8 a los 17 años: Transfer Compare quedó bloqueado por el control anti-robots.
 - Joan subió manualmente su puja por Stanke.
+
+## 26-nov ~23:05 HT — alineación juvenil
+- A pedido de Joan, guardada la alineación de Satoshian Academy para el 28-nov 10:00 HT vs FC Mjuk Plast (liga, jornada 1) y como alineación estándar. Detalle en `docs/cantera-plantilla.md`.
