@@ -195,3 +195,8 @@ Criterio: precio máximo ≈ ventas recientes de jugadores SIN especialidad y TS
 - Dato de reventa añadido: jugadas 10 sin secundarias a los 19 años → mediana 48 000 (a los 18: 162 210). Vender antes de los 19.
 - Regla nueva: revisar la personalidad antes de pujar; no comprar "nasty fellow" ni "controversial person".
 - El juego mostró un control anti-robots en una consulta: se espacian las lecturas.
+
+## 26-nov 22:32 HT — revisión de pujas superadas
+- Amestoy: 127,000 (El Jan Freenk, 22 pujas) a 11 h del cierre. Muy por encima del tope de 40,000: fuera.
+- Stanke: 13,000 (FC UCJL), fuera por tope de 12,000. Sterjovski: descartado.
+- Seguimos líderes: Ziętarski 2,000; MacDonald 1,000; Shear 1,000 (autobid 45,000); Tucker 1,000; Quintanilla 5,000.

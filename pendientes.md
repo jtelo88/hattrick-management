@@ -4,7 +4,7 @@
 | Jugador | ID | Nuestra puja | Tope | Cierre (HT) | Nota |
 |---|---|---|---|---|---|
 | Ziętarski | 518280759 | 2 000 (líder) | 8 000 | 27-nov 05:54 | interior, defensa 5, pases 5 |
-| Amestoy | 518282438 | 13 000 (líder) | **40 000** | 27-nov 09:17 | interior, Powerful, TSI 1 840 |
+| Amestoy | 518282438 | — | 40 000 | 27-nov 09:17 | **fuera**: va en 127 000 |
 | MacDonald | 518291831 | 1 000 (líder) | 3 000 | 27-nov 20:38 | interior |
 | Shear | 518292968 | autobid | **45 000** | 27-nov 21:43 | interior, pases 5 |
 | Tucker | 518295225 | 1 000 (líder) | no defender | 28-nov 00:44 | extremo |
