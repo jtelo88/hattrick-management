@@ -27,6 +27,18 @@
 - **Subestimación:** con confianza alta y rival peor clasificado, el equipo puede relajarse (solo en liga, no en las tres primeras jornadas). "Play it cool" aumenta el riesgo [comunidad: lo triplica].
 - Con dos goles de ventaja el equipo se relaja: cada gol extra resta 9% al ataque y suma 7,5% a la defensa.
 
+## Estado actual del equipo [juego, 26-nov 21:00 HT]
+- **Ánimo: composed** (nivel 4 de una escala que va de "like the Cold War" a "paradise on earth!"; por debajo de calm y content). Las 8 compras no lo hundieron, pero está bajo el punto medio.
+- **Confianza: nivel 5** (punto medio).
+- Expectativa de la afición: favoritos leves en casa ante Alabama Bears (29-nov) y Michigan Samurais (13-dic); "We will lose" de visita ante _Barbarians_ (6-dic).
+- Venezolanos.F.C. es de Florida como nosotros: contra ellos hay derbi.
+
+## Cambios del motor en la temporada 96 [oficial, editorial del 10-nov-2026]
+- Confianza: los resultados antiguos pesan cada vez menos; cuenta más lo reciente. Hay una página nueva para seguir ánimo y confianza con flecha de tendencia.
+- Technical: marca algo más fácil en los eventos Technical contra Head, inicia más contraataques extra y, al ser marcado, responde como un jugador sin especialidad (ya no pierde 8%).
+- Support: basta un jugador para activar el evento; la experiencia rival cuenta la mitad y el impulso a los compañeros es el doble.
+- Hay un registro nuevo de cambios de experiencia de formación en el informe semanal.
+
 ## Experiencia de formación [oficial + juego]
 - Se gana por minutos jugados con la formación (máx. 90 por partido; amistosos cuentan igual).
 - **Con "excellent" o más no hay riesgo de confusión.** Por debajo, el riesgo crece.

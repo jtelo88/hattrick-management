@@ -2,6 +2,7 @@
 
 ## Escala de habilidades [juego + oficial]
 De inexistente (0) a divino (20). Niveles que usamos: 4 weak · 5 inadequate · 6 passable · 7 solid · 8 excellent · 9 formidable · 10 outstanding · 11 brilliant.
+Escala completa confirmada en el juego: 0 non-existent, 1 disastrous, 2 wretched, 3 poor, 4 weak, 5 inadequate, 6 passable, 7 solid, 8 excellent, 9 formidable, 10 outstanding, 11 brilliant, 12 magnificent, 13 world class, 14 supernatural, 15 titanic, 16 extra-terrestrial, 17 mythical, 18 magical, 19 utopian, 20 divine. Liderazgo llega como máximo a solid (7); experiencia de formación va de poor (3) a outstanding (10).
 (La tabla del context pack está desfasada en 1; no usarla.)
 
 ## Las ocho habilidades [oficial]
@@ -33,7 +34,7 @@ Unos 100 puntos por nivel de experiencia. Máximo 90 minutos por partido.
 ## Especialidades [oficial]
 | Especialidad | Clima | Otros efectos |
 |---|---|---|
-| Technical | +5% sol, −5% lluvia | Crea ocasiones contra rivales Head; objetivo de marcaje: −8% |
+| Technical | +5% sol, −5% lluvia | Crea ocasiones contra rivales Head; inicia contraataques extra. Desde la temporada 96 ya no tiene penalización al ser marcado |
 | Quick | −5% con lluvia y con sol | Ocasiones por velocidad; suma a la táctica de contraataque |
 | Powerful | +5% lluvia, −5% sol | Interior defensivo corta ataques; delantero normal crea segundas ocasiones; su defensa cuenta doble en Pressing |
 | Head | — | Clave en córners (ataque y defensa); hace peligrosos a los Technical rivales |

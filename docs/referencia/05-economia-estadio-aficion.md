@@ -13,7 +13,7 @@ Solo cobra la mitad alta de la tabla (puestos 1–4), al final de la temporada.
 | IV | 900 000 | 700 000 | 500 000 | 300 000 |
 
 - Máximo goleador de la serie: 10 000.
-- Bono de ascenso (directo / tras clasificatorio): división VI 200 000 / 75 000; división V 300 000 / 100 000. **Sin confirmar si la fila es la división de la que se sale o a la que se llega.**
+- Bono de ascenso según la división de la que se sale (directo / tras clasificatorio): **división VI 200 000 / 75 000**; división V 300 000 / 100 000 [oficial, verificado en el juego].
 - Al ascender, +10% de socios; al descender, −10%.
 
 ## Taquilla y estadio [oficial]
@@ -27,7 +27,8 @@ Solo cobra la mitad alta de la tabla (puestos 1–4), al final de la temporada.
 - Cada obra cuesta 10 000 fijos más el costo por asiento; quitar asientos, 6 c/u.
 - **Reparto:** liga, todo para el local. Copa, 2/3 local y 1/3 visitante. **Amistosos, mitad y mitad** (comprobado: nos tocó 1 366 de 2 732 [juego]).
 - **Asistencia:** pesan sobre todo el humor de la afición y el número de socios; después la posición en la tabla y la del rival. Crece a lo largo de la temporada. El mal tiempo la baja.
-- Nuestro estadio: 12 000 asientos, 7 100/semana de mantenimiento, 500 socios [juego].
+- Nuestro estadio: 12 000 asientos, 7 100/semana de mantenimiento [juego].
+- Nuestra afición [juego, 26-nov]: 512 socios (+12 esta semana), humor "content", expectativa de temporada "We will have to fight to stay up" (la segunda más baja). Cualquier puesto en la mitad alta supera lo que esperan.
 
 ## Afición [oficial]
 - Cuota: 30 US$ por socio, una vez por temporada.

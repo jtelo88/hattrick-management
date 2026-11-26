@@ -21,6 +21,8 @@
 - No se ingresan credenciales de Hattrick en sitios externos (p. ej. trackers).
 
 ## Riesgos
+- El editorial del 10-nov-2026 anuncia una revisión de los acuerdos CHPP "adding better privacy and AI use protection for end users". Se refiere a desarrolladores de aplicaciones; qué implica para un asistente de IA por navegador sigue sin verificar.
+- La prueba de Supporter vence el 23-dic-2026; varias herramientas que usamos dependen de ella.
 - Hattrick negó a Joan el acceso a la API CHPP.
 - El manual de CHPP prohíbe la puja automática para apps aprobadas. La política sobre un asistente de IA operando por navegador **no está verificada**; hay riesgo para la cuenta.
 - Recomendación pendiente: pedir confirmación escrita a soporte o a un GameMaster.

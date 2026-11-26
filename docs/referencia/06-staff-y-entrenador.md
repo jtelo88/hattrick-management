@@ -20,14 +20,17 @@
 Nuestro staff [juego]: 2 asistentes nivel 3 (= 6 niveles: +21% de velocidad, +0,15 lesiones por partido sobre la base de 0,4) y médico nivel 2 (−15% de riesgo, +40% de recuperación).
 
 ## Entrenador [oficial]
-- Nivel máximo: 5 (excellent). Los equipos nuevos empiezan con nivel 3 (passable). **El nuestro es nivel 3.**
+- Nivel máximo: 5 (excellent). Los equipos nuevos empiezan con nivel 3 (passable).
+- **El nuestro [juego]:** Drew Cady, 40 años, nivel 3 (habilidad de entrenador passable, 6), **liderazgo weak (4)**, experiencia 8, sueldo 5 000/semana.
+- **Promedios [juego, pantalla de entrenamiento]:** en nuestra división el entrenador medio tiene habilidad 6,5 (entre nivel 3 y 4) y los equipos suman 7,4 niveles de asistentes (nosotros 6), entrenan al 96,7% de intensidad con 16,6% de resistencia (nosotros 100% y 10%).
+- Un jugador convertido puede ser **jugador-entrenador** y seguir jugando; no puede superar como entrenador su nivel de experiencia.
 - Mejor entrenador = entrenamiento más efectivo y mejor forma. El nivel 5 es "solo medio paso mejor" que el 4.
 - El **liderazgo** del entrenador mejora el ánimo.
 - Tipo ofensivo, defensivo o neutral: solo afecta al partido, no al entrenamiento.
 - Tras una temporada en el cargo, su liderazgo empieza a bajar; cuando llega a desastroso, baja su nivel de entrenador.
 
-### Precio de un entrenador externo [oficial, tabla sin etiquetas de fila]
-Columnas = liderazgo; filas = nivel de entrenador (interpretación nuestra, coherente con el precio de 617 100 que vimos en el juego para nivel 4).
+### Precio de un entrenador externo [oficial, verificado en el juego]
+Columnas = liderazgo (poor 3 a solid 7); filas = nivel de entrenador (1 a 5).
 
 | Nivel | Liderazgo 3 | 4 | 5 | 6 | 7 |
 |---|---|---|---|---|---|

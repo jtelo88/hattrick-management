@@ -45,10 +45,12 @@
 
 ## Por verificar (solo lectura)
 - [x] La orden individual no cambia el entrenamiento (confirmado por el reglamento oficial).
-- [ ] **Regla de ascenso de VI.78:** releer la pantalla de la serie (¿suben 1.º y 2.º, o solo el campeón?).
-- [ ] Bono de ascenso: si los 200 000 / 300 000 corresponden a salir de VI o a llegar a V.
-- [ ] Comisión del agente: comparar la tabla con lo que muestra la ficha de Freeman ("cuánto te quedas").
-- [ ] Ánimo del equipo tras las 8 compras: leerlo en la pantalla del club.
+- [x] Regla de ascenso de VI.78: suben directo 1.º y 2.º; 3.º y 4.º clasificatorio (leído en el juego).
+- [x] Bono de ascenso desde VI: 200 000 directo, 75 000 tras clasificatorio.
+- [x] Comisión del agente: tabla oficial leída en el Apéndice 4. Freeman lleva 0 visitas a 2 000.
+- [x] Ánimo tras las 8 compras: composed (nivel 4), confianza 5.
+- [ ] Decidir si se paga Supporter antes del 23-dic (vence la prueba).
+- [ ] Hay 2 mensajes sin leer en el Mailbox.
 - [ ] Cotejar la tabla de contribución con "Predict ratings" en el partido del 29-nov.
 - [ ] Taquilla y asistencia reales del 29-nov.
 - [ ] Si el "Season 95 Incentive" (6 500) es semanal.

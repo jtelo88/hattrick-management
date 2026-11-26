@@ -33,7 +33,7 @@ Cada dato lleva una etiqueta. **Si dos fuentes chocan, gana la de más arriba.**
 - Lecturas en el juego registradas en `log/decisiones.md` y `snapshots/`.
 
 ## Límites de esta investigación
-- El reglamento oficial se leyó a través de un extractor automático; las tablas con formato complejo (comisión del agente, precios de entrenador) salieron incompletas o sin etiquetas y se marcan como tales.
-- La wiki no respondió a la consulta directa; solo se usó el PDF.
-- Los números de [comunidad] no se pudieron contrastar con una tercera fuente independiente. Se validarán con datos propios (ver "Por verificar" en cada archivo).
-- El editorial del 10-nov-2026 anunció cambios a la confianza y a las especialidades Technical y Support; no se leyó el detalle.
+- **Verificado directamente en el juego el 26-nov (segunda pasada):** regla de ascenso de VI.78, tabla de premios y bonos de ascenso, Apéndice 4 (comisión del agente y del club anterior), tabla de precios de entrenador con sus etiquetas, escala de niveles, editorial del 10-nov-2026, ánimo, confianza, afición y datos del entrenador.
+- **Siguen siendo solo [comunidad]:** semanas por nivel de entrenamiento, eficiencia relativa del entrenador por nivel, coeficientes de local y de actitud, porcentajes exactos de la penalización por varios jugadores en el centro, fórmulas de ocasiones.
+- **[wiki] sin segunda fuente:** la tabla de contribución por puesto (dic-2019).
+- No hay forma de confirmar los números de [comunidad] sin datos propios: se irán validando con "Predict ratings" y con las actualizaciones semanales.

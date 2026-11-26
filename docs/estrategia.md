@@ -53,12 +53,12 @@ Mezcla de ascenso y construcción de activos: subir de división mientras se for
 
 ## Ajustes tras la investigación del 26-nov (ver `referencia/`)
 1. **La tabla vale dinero.** En división VI los puestos 1 a 4 cobran 525 000 / 400 000 / 300 000 / 175 000 al final de la temporada. Quedar segundo equivale a unas diez semanas de patrocinio. El entrenamiento sigue primero, pero no se regalan puntos.
-2. **Ascenso por confirmar.** El reglamento general dice que en VI solo sube el campeón; la pantalla de nuestra serie indicaba 1.º y 2.º. Hasta releerla, el objetivo es "terminar lo más arriba posible", no "asegurar el 2.º".
+2. **Ascenso confirmado en el juego:** en VI.78 suben directo 1.º y 2.º; 3.º y 4.º juegan clasificatorio. Con premio y bono, el 2.º puesto vale 600 000 US$ y el 1.º 725 000. **Objetivo de la temporada: 2.º puesto.**
 3. **Comprar con cuidado del ánimo.** Cada compra o venta puede bajar el ánimo, y el ánimo es mediocampo. Solo se compra lo que entra en un cupo de entrenamiento; se evitan compras en la víspera de partidos de liga importantes.
 4. **Vender a las 16 semanas o más.** La comisión del agente baja de 12% (día 0) a 2% (16 semanas). El ciclo natural es comprar a los 17 años recién cumplidos y vender una temporada después o más.
-5. **"Play it cool" en partidos que no cambian nada** para subir el ánimo; nunca con confianza alta ante rivales peores (riesgo de subestimación).
+5. **"Play it cool" en partidos que no cambian nada** para subir el ánimo; nunca con confianza alta ante rivales peores (riesgo de subestimación). Candidato claro: la visita a _Barbarians_ del 6-dic (la afición ya espera derrota). El ánimo está en "composed", bajo el punto medio.
 6. **Una sola formación.** 3-5-2 está en excellent y no tiene riesgo de confusión; 4-4-2 irá bajando por desuso y se deja caer.
-7. **Mejora de entrenamiento a mediano plazo:** entrenador nivel 4 con liderazgo bajo (268 700–617 100), antes que asistentes de nivel 4 o 5. Se evalúa con el premio de liga.
+7. **Mejora de entrenamiento a mediano plazo:** entrenador nivel 4 (268 700 con liderazgo poor; 617 100 con weak, que es el liderazgo del actual), antes que asistentes de nivel 4 o 5. El liderazgo importa para el ánimo, así que no conviene el más barato sin mirar. Se evalúa con el premio de liga. Estamos por debajo del promedio de la división en asistentes (6 niveles frente a 7,4).
 8. **Cantera como fuente de titulares:** un canterano promovido rinde +1,5 niveles en todo mientras no se venda. Los mejores de la academia se quedan; los comprados son para revender.
 9. **Pases como segunda fase:** "Short passes" entrena a interiores, extremos y delanteros a efecto completo. Se evalúa alternarlo cuando los aprendices lleguen a jugadas 9.
 10. **Caja alta enfría a la afición:** tener mucho dinero parado hace que los aficionados reaccionen peor. Otro motivo para invertir en activos en vez de acumular.

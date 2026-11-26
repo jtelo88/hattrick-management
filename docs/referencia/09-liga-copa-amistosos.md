@@ -4,14 +4,17 @@
 16 semanas: 14 jornadas (8 equipos, ida y vuelta), una semana de clasificatorios y una sin liga.
 
 ## Ascenso y descenso
-- Regla general [oficial]: en las divisiones II a VI, los campeones de serie con más puntos suben directo y los demás campeones juegan clasificatorio. En las divisiones más bajas suben todos los campeones, y en las impares (VII, IX) también los subcampeones.
-- **Nuestra serie [juego, 25-nov]:** VI.78 de EE. UU., división 6 de 6, con 256 series. La pantalla de la serie indicaba ascenso directo para 1.º y 2.º, y clasificatorio para 3.º y 4.º.
-- **Discrepancia abierta:** la regla general diría que en VI solo sube el campeón. La explicación probable es que el árbol de EE. UU. es más corto que el ejemplo del reglamento y su división VI funciona como último nivel [inferencia]. **Hay que volver a leer la pantalla de la serie y confirmar.**
+- **Nuestra serie, VI.78 [juego, pantalla de la serie, 26-nov 21:00 HT]:** "All teams in 1st and 2nd place are promoted directly. Teams in 3rd and 4th place plays a qualifier match." División 6 de 6 en EE. UU., 256 series.
+- Regla general [oficial]: en las divisiones II a VI suben los campeones (los mejores directo, el resto por clasificatorio); en las más bajas, todos los campeones, y en las impares también los subcampeones. EE. UU. tiene un árbol más corto y su división VI se comporta como último nivel: **manda lo que dice la pantalla de la serie.**
 - Descienden 7.º y 8.º (no aplica en la última división). 5.º y 6.º juegan clasificatorio contra campeones de abajo.
 - Desempates: puntos, diferencia de goles, goles a favor.
 
 ## Premios de liga [oficial]
-División VI: 525 000 / 400 000 / 300 000 / 175 000 para los puestos 1 a 4. Detalle en 05.
+División VI: 525 000 / 400 000 / 300 000 / 175 000 para los puestos 1 a 4.
+
+**Bono de ascenso [oficial, tabla leída en el juego]:** se paga según la división de la que se sale. Desde división VI: **200 000 por ascenso directo, 75 000 tras clasificatorio.** Un ascenso "gratis" (fuera del cupo normal) solo da el +10% de socios.
+
+**Lo que vale cada puesto para nosotros esta temporada:** 1.º = 725 000 · 2.º = 600 000 · 3.º = 300 000 (+75 000 si gana el clasificatorio) · 4.º = 175 000 (+75 000).
 
 ## Copa [oficial]
 - Juegan la Copa Nacional los equipos de división VI o superior. Partidos entre semana.

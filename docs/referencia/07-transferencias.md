@@ -20,8 +20,9 @@
 | Club de origen | 2% del precio (no al vender por primera vez a un canterano propio) | [oficial] |
 | Club anterior | 3% del precio va a un fondo; lo que recibe el club anterior depende de los partidos que jugó con él | [oficial] |
 | Agente | Depende del tiempo en el club | [oficial]; tabla abajo |
+| Lo que cobra el club anterior | 0% con 0 partidos; 0,25% con 1; 0,5% con 2; 1% con 3; 1,5% con 4; 2% con 5; 2,5% con 7; 3% con 10; 3,5% con 20; 4% con 40 | [oficial, Apéndice 4] |
 
-Comisión del agente según tiempo en nuestro club [comunidad, que cita el apéndice oficial de comisiones; no la pudimos leer directamente]:
+Comisión del agente según tiempo en nuestro club [oficial, Apéndice 4 del reglamento, leído en el juego el 26-nov]:
 
 | Tiempo | Comisión | Tiempo | Comisión |
 |---|---|---|---|

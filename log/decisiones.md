@@ -170,3 +170,10 @@ Sin verificar: cuántas semanas tarda nuestro entrenamiento (entrenador nivel 3,
 - Creada `docs/referencia/` (10 archivos por área) a partir del reglamento oficial, la wiki y fuentes de la comunidad, con etiqueta de confianza por dato.
 - Documentos de trabajo anteriores movidos a `docs/historico/`.
 - Hallazgos que cambian la estrategia: premios de liga de división VI (525k/400k/300k/175k); regla de ascenso por confirmar; comisión del agente decreciente hasta 16 semanas; riesgo de ánimo por transferencias; órdenes individuales no afectan al entrenamiento (oficial); canteranos con +1,5 niveles; precio de entrenador nivel 4.
+
+## 26-nov 21:10 HT — segunda pasada de verificación en el juego
+- Confirmado en la pantalla de VI.78: ascenso directo para 1.º y 2.º; clasificatorio para 3.º y 4.º.
+- Leídos en el reglamento dentro del juego: Apéndice 4 (comisiones), tabla de entrenador con etiquetas, premios y bonos de ascenso, editorial del 10-nov.
+- Estado: ánimo composed (4), confianza 5; afición 512 socios, "content", espera pelear el descenso. Entrenador Drew Cady: nivel 3, liderazgo weak (4). Caja 257 968.
+- Prueba de Supporter hasta el 23-dic-2026.
+- Pujas a las 21:10 HT: Amestoy 13 000 (líderes, 13 pujas); MacDonald 1 000; Shear 1 000 con autobid 25 000; Tucker 1 000; Quintanilla 5 000. Stas sigue en 382 500 a 5 min del cierre.

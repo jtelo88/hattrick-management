@@ -59,6 +59,15 @@ Con entrenador nivel 3 y dos asistentes nivel 3, la estimación de la comunidad 
 ## Caída de habilidades [oficial]
 - Empieza cerca de los 30 años, cada semana; mayor cuanto más alta la habilidad y más viejo el jugador.
 
+## Datos de nuestra pantalla de entrenamiento [juego, 26-nov]
+- Próximo entrenamiento: viernes 27-nov 03:30 HT. Actualización de caída de habilidades: lunes 30-nov 09:00 HT (aparte). Próximo cambio de intensidad efectivo: 3-dic 09:00 HT.
+- Nombres de los tipos en el juego: "Passing" (interiores, extremos, delanteros), "Passing (Defenders + All Midfielders)" (mejora algo menor por entrenar a más jugadores), "Defending (Defenders, Keepers + All Midfielders)" (efecto menor), "Winger (Winger + Attackers)" (efecto menor), "Scoring and Set Pieces".
+- La pantalla trae una **estimación de entrenamiento** por jugador (función de Supporter; ver nota abajo).
+- Bajar la intensidad sube el ánimo; subirla lo baja.
+
+## Nota sobre Supporter
+La cuenta está en **periodo de prueba de Supporter hasta el 23-dic-2026** [juego]. Transfer Compare, la estimación de entrenamiento y las estadísticas históricas son funciones de Supporter: después de esa fecha se pierden si no se paga.
+
 ## Por verificar con datos propios
 - Semanas reales por nivel de jugadas con nuestro staff (anotar cada viernes).
 - Si conviene alternar semanas de "Short passes" para subir pases.
