@@ -136,3 +136,4 @@ Sin verificar: cuántas semanas tarda nuestro entrenamiento (entrenador nivel 3,
 - Stas (518261824): 17a8d, PM7, D7, sin especialidad, TSI 1,580, cierra 26-nov 21:15 HT.
 - Pujamos 8,000 / 10,000 / 12,000 / 14,000; el rival SCCP Coringão tiene autobid y quedó en 15,000. Siguiente puja sería 16,000 (> tope). Detenido. Pendiente: Joan decide si sube el tope.
 - Leisibach: no se defiende más (si nadie supera los 4,000, se gana igual; la puja no se puede retirar).
+- Stas, tope subido a 30,000 por Joan (~08:05 HT): pujamos 16,000 / 22,000 / 27,000 / 30,000; el autobid de SCCP Coringão respondió siempre y quedó en 31,000. Detenido en el tope. Faltan ~13 h para el cierre.
