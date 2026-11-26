@@ -30,3 +30,9 @@ Orden cronológico. Cada entrada: qué se decidió, quién aprobó y qué se eje
 - Corrección: la primera estimación de margen (~12 000 US$/sem) omitía mantenimiento del estadio (7 100) y "Otros" (2 000). Margen corregido: ≈ +2 000 sin taquilla.
 - El juego pagó bonos por tareas completadas (15 000–20 000 US$ cada una); caja pasó de 178 000 a 233 000 US$.
 - El gasto "Otros" de 2 000 resultó ser "Promoted Youth" (único). Margen recalculado: entre −2 600 y +3 900 US$/sem sin taquilla, según si el incentivo de sponsor es semanal.
+
+## 2026-11-25 (noche, hora de Florida) — revisión programada
+
+- Amistoso Satoshian FC 2-0 FC TetPapa (vista pública). Sin lesionados ni tarjetas en la plantilla.
+- René Cabrera ya figura en la plantilla (24 jugadores; sueldos 9 586 US$/sem). Precio final sin confirmar.
+- **La sesión de Hattrick en el navegador integrado estaba cerrada**: no se pudieron leer calificaciones del partido, precio del médico, opciones de amistoso ni defender la puja por Conor Ross (cierre 02:10 HT del 26-nov).
