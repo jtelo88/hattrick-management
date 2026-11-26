@@ -200,3 +200,4 @@ Criterio: precio máximo ≈ ventas recientes de jugadores SIN especialidad y TS
 - Amestoy: 127,000 (El Jan Freenk, 22 pujas) a 11 h del cierre. Muy por encima del tope de 40,000: fuera.
 - Stanke: 13,000 (FC UCJL), fuera por tope de 12,000. Sterjovski: descartado.
 - Seguimos líderes: Ziętarski 2,000; MacDonald 1,000; Shear 1,000 (autobid 45,000); Tucker 1,000; Quintanilla 5,000.
+- 22:36 HT — Stanke: Joan subió el tope a 16,500. Pujamos 14,000 y 16,500; el autobid de FC UCJL respondió 15,000 y 17,500. Retirados.
