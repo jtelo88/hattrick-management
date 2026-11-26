@@ -62,3 +62,8 @@ Orden cronológico. Cada entrada: qué se decidió, quién aprobó y qué se eje
 - Médico, contrato de 16 semanas: N1 −7,5% lesión, 1 020/sem · N2 −15%, 2 040 · N3 −22,5%, 4 080 · N4 −30%, 8 160 · N5 −37,5%, 16 320. Recuperación +20% por nivel.
 - Amistoso senior de la próxima semana: sin reservar; hay botón "Add your team to pool".
 - Entrenamiento: eficiencia 64%; stamina sigue en 15%.
+
+### 26-nov 06:00 HT — instrucciones de Joan y análisis
+- Joan: priorizar siempre el entrenamiento; quiere el mejor entrenamiento posible; aprueba bolsa de amistosos en casa; pide lista de despidos para aprobar.
+- Mercado de extremos de 17 años con extremo 8 (cualquier país, 59 listados; primera página): con pujas reales van de 3 000 a 147 900 US$ (los de una sola habilidad, 3 000–31 000); varios sin pujas con salida de 0–12 500. Sueldos de extranjeros 370–590. Rubén Quintanilla (EE. UU., 17a 0d, extremo 8, playmaking 3, sueldo 390, salida 5 000) está en precio de mercado.
+- Bolsa de amistosos: opciones vistas (país EE. UU., divisiones 1–6, sede Home, reglas Any). El clic de inscripción fue bloqueado por un control de seguridad de Claude; queda para que Joan lo pulse o lo confirme.
