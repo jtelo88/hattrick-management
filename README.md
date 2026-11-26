@@ -10,13 +10,10 @@ Control y documentación de **Satoshian FC** (Hattrick.org, TeamID 3524617, seri
 | `docs/estrategia.md` | Estrategia deportiva y de entrenamiento vigente, con su justificación. |
 | `docs/presupuesto.md` | Presupuesto semanal recurrente y palancas financieras. |
 | `docs/competencia.md` | Rivales de la serie: calificaciones por línea, reglas de ascenso y lectura. |
-| `docs/entrenamiento-y-cantera.md` | Eficiencia de entrenamiento, precios de entrenador y asistentes, opciones de cantera. |
-| `docs/guias-comunidad.md` | Qué recomiendan las guías de la comunidad y en qué diferimos. |
-| `docs/contribucion-habilidades.md` | **Referencia base:** porcentaje de cada habilidad que aporta cada puesto y orden a cada línea (wiki de Hattrick). Incluye `data/contribuciones.csv` y `tools/aporte.py`. |
-| `docs/evaluacion-jugadores.md` | Cómo evaluar jugadores y alineaciones: herramientas del juego, contribuciones por puesto, qué da valor de mercado. |
+| `docs/referencia/` | **Base de conocimiento del juego**, por área, con fuente y nivel de confianza por dato. Empezar por `00-indice-y-fuentes.md`. Incluye `data/contribuciones.csv` y `tools/aporte.py`. |
 | `docs/estrategia-inversion.md` | En qué invertir la caja disponible y por qué. |
 | `docs/base-de-precios.md` + `data/` | Base de precios de transferencias: ventas cerradas (`data/ventas.csv`) y subastas seguidas (`data/subastas-seguidas.csv`). |
-| `docs/plan-grupo-entrenamiento.md` | Plan del grupo de entrenamiento (interiores y extremos) y su ejecución. |
+| `docs/historico/` | Documentos de trabajo del 25–26 nov; ya no son referencia. |
 | `docs/cantera-plantilla.md` | Plantilla de la cantera. |
 | `docs/operacion.md` | Reglas de operación: aprobaciones, acceso, límites y riesgos. |
 | `log/decisiones.md` | Bitácora cronológica de decisiones y cambios ejecutados en el juego. |

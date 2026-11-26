@@ -165,3 +165,8 @@ Sin verificar: cuántas semanas tarda nuestro entrenamiento (entrenador nivel 3,
 - Joan aportó el PDF de la wiki "Skill contribution" (edición 7-dic-2019) y pidió usarlo como base. Creado `docs/contribucion-habilidades.md`, `data/contribuciones.csv` y `tools/aporte.py`.
 - Cambios de estrategia: órdenes individuales de interiores según secundaria; extremos hacia el centro por defecto; prioridad de secundarias defensa > pases > anotación; aprendices sobrantes como central ofensivo o delantero defensivo.
 - Nota: es la wiki mantenida por usuarios, no el reglamento oficial; se valida con "Predict ratings".
+
+## 26-nov — investigación de reglas y nueva base de conocimiento
+- Creada `docs/referencia/` (10 archivos por área) a partir del reglamento oficial, la wiki y fuentes de la comunidad, con etiqueta de confianza por dato.
+- Documentos de trabajo anteriores movidos a `docs/historico/`.
+- Hallazgos que cambian la estrategia: premios de liga de división VI (525k/400k/300k/175k); regla de ascenso por confirmar; comisión del agente decreciente hasta 16 semanas; riesgo de ánimo por transferencias; órdenes individuales no afectan al entrenamiento (oficial); canteranos con +1,5 niveles; precio de entrenador nivel 4.

@@ -30,7 +30,7 @@ Advertencias:
 - **_Barbarians_ está fuera de alcance esta temporada**: estadio de ~116 000 asientos (35 928 espectadores = 31%), taquilla de 372 135 US$, defensa 14. Es un club establecido.
 - **Los otros seis rivales son muy parejos y flojos**: mediocampo 3,0–3,75, defensa 4,5–5,0, ataque 3,75–4,25. Varios usan el estadio por defecto de 12 000 y alineaciones 3-4-3 con posesión 50/50.
 - **Satoshian FC ya supera a esos seis en defensa (+1,5) y ataque (+0,75)** y empata en mediocampo.
-- El objetivo realista es el **2.º puesto, que da ascenso directo**.
+- El objetivo realista es el **2.º puesto** (premio de 400 000 US$ en división VI). Si además da ascenso directo está por confirmar: la pantalla de la serie lo indicaba, el reglamento general dice que en VI solo sube el campeón (ver `referencia/09-liga-copa-amistosos.md`).
 - La única línea donde no hay ventaja es el **mediocampo**, justo la que se está entrenando.
 
 ## Dato de taquilla [juego]

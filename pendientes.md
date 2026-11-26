@@ -44,7 +44,11 @@
 - [ ] Revisión en la semana 6: calidad de prospectos y 2.º scout.
 
 ## Por verificar (solo lectura)
-- [ ] Que la orden individual (defensivo, ofensivo, hacia el centro) no cambie el % de entrenamiento del cupo.
+- [x] La orden individual no cambia el entrenamiento (confirmado por el reglamento oficial).
+- [ ] **Regla de ascenso de VI.78:** releer la pantalla de la serie (¿suben 1.º y 2.º, o solo el campeón?).
+- [ ] Bono de ascenso: si los 200 000 / 300 000 corresponden a salir de VI o a llegar a V.
+- [ ] Comisión del agente: comparar la tabla con lo que muestra la ficha de Freeman ("cuánto te quedas").
+- [ ] Ánimo del equipo tras las 8 compras: leerlo en la pantalla del club.
 - [ ] Cotejar la tabla de contribución con "Predict ratings" en el partido del 29-nov.
 - [ ] Taquilla y asistencia reales del 29-nov.
 - [ ] Si el "Season 95 Incentive" (6 500) es semanal.

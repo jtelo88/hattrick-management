@@ -17,7 +17,7 @@ Objetivo: saber cuándo un jugador está caro o barato antes de pujar, y a cuán
 - El precio a varias horas del cierre NO es el precio final: registrar ambos para calcular el multiplicador.
 
 ## Aporte en el campo
-Antes de pujar, calcular el aporte del candidato con `tools/aporte.py` (ver `docs/contribucion-habilidades.md`) y compararlo con el de los aprendices actuales: un jugador se compra si mejora una línea o si su perfil se revende mejor, no solo por precio.
+Antes de pujar, calcular el aporte del candidato con `tools/aporte.py` (ver `docs/referencia/04-contribucion-por-puesto.md`) y compararlo con el de los aprendices actuales: un jugador se compra si mejora una línea o si su perfil se revende mejor, no solo por precio.
 
 ## Limitaciones
 - Transfer Compare solo da 10 ventas y agrupa con criterios propios; la muestra es chica y los rangos anchos.

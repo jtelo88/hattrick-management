@@ -1,4 +1,4 @@
-# Contribución de habilidades por puesto — referencia base de la estrategia
+# 04 · Contribución de habilidades por puesto
 
 **Fuente:** wiki de Hattrick, página "Skill contribution" (https://wiki.hattrick.org/wiki/Skill_contribution), PDF aportado por Joan el 26-nov-2026. Todos los porcentajes de este archivo salen de ahí, salvo donde se indique.
 
@@ -20,7 +20,7 @@ Abreviaturas: GK portería · DF defensa · PM playmaking (jugadas) · WG extrem
 
 Porcentaje del playmaking de cada puesto que llega a la calificación de mediocampo, de mayor a menor:
 
-| Puesto y orden | % de PM al mediocampo | ¿Recibe entrenamiento de PM? [pack/juego] |
+| Puesto y orden | % de PM al mediocampo | ¿Recibe entrenamiento de PM? [oficial] |
 |---|---|---|
 | Interior normal (IM) | **100%** | Sí, 100% |
 | Interior defensivo (IMd) | 95% | Sí, 100% |
@@ -28,22 +28,22 @@ Porcentaje del playmaking de cada puesto que llega a la calificación de medioca
 | Interior hacia la banda (IMtw) | 90% | Sí, 100% |
 | Extremo hacia el centro (Wtm) | **55%** | Sí, 50% |
 | Extremo normal (W) | 45% | Sí, 50% |
-| Central ofensivo (CDo) | 40% | No (solo residual) |
-| Delantero defensivo (Fd / TdF) | 35% | No (solo residual) |
+| Central ofensivo (CDo) | 40% | Muy pequeño |
+| Delantero defensivo (Fd / TdF) | 35% | Muy pequeño |
 | Extremo defensivo (Wd) / ofensivo (Wo) | 30% | Sí, 50% |
-| Central normal (CD) | 25% | No |
-| Delantero normal (F) | 25% | No |
-| Lateral ofensivo (WBo) / hacia el centro (WBtm) | 20% | No |
-| Lateral normal (WB) | 15% | No |
-| Central hacia la banda (CDtw) / delantero hacia la banda (Ftw) | 15% | No |
-| Lateral defensivo (WBd) | 10% | No |
-| Portero | 0% | No |
+| Central normal (CD) | 25% | Muy pequeño |
+| Delantero normal (F) | 25% | Muy pequeño |
+| Lateral ofensivo (WBo) / hacia el centro (WBtm) | 20% | Muy pequeño |
+| Lateral normal (WB) | 15% | Muy pequeño |
+| Central hacia la banda (CDtw) / delantero hacia la banda (Ftw) | 15% | Muy pequeño |
+| Lateral defensivo (WBd) | 10% | Muy pequeño |
+| Portero | 0% | Muy pequeño |
 
 Lecturas:
 - Cambiar la orden de un interior cuesta como máximo 5–10% de su playmaking en el mediocampo. Es barato mover la orden para aprovechar su secundaria.
 - Un extremo "hacia el centro" da 55% de su PM (10 puntos más que normal) y pierde ataque lateral (74% de WG en vez de 86%).
 - El playmaking sirve fuera del mediocampo: un aprendiz que ya no cabe en los 6 cupos puede rendir de central ofensivo (40%) o delantero defensivo (35%), aunque ahí no entrena.
-- Sin verificar en el juego: que la orden individual no cambie el cupo de entrenamiento (interior = 100%, extremo = 50%). Se asume por el pack; comprobar en la pantalla de entrenamiento.
+- Confirmado [oficial]: las órdenes individuales no afectan al entrenamiento; el interior entrena completo y el extremo la mitad con cualquier orden (ver 01).
 
 ---
 
