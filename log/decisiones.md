@@ -123,3 +123,11 @@ Criterio aprobado: ≤17a 30d, PM 7+, especialidad, defensa 5+ o pases 6+, tope 
 
 Lectura: incluso el mono-habilidad PM9–10 de 18 años se vende a 95,000–160,000 de mediana. Corrige lo dicho el 25-nov ("los PM6 baratos tienen poca reventa"): la reventa depende de llegar a PM9–10 cerca de los 18 años, no solo de las secundarias. Las secundarias (defensa 7, pases 6) duplican o triplican el precio.
 Sin verificar: cuántas semanas tarda nuestro entrenamiento (entrenador nivel 3, eficiencia 68%) en subir un nivel de PM; se medirá con las actualizaciones de los viernes.
+
+## 26-nov ~07:55 HT — premium para reventa (aprobado por Joan, tope 90,000, solo uno)
+
+- Joan decidió NO responder al ojeador de Bután (Adrián). Cerrado.
+- Elegido: **Georges Amestoy** (518282438): 17a2d, PM7, D6, Powerful, anotación 5, pases 2, TSI 1,840, sueldo 490. Cierra 27-nov 09:17 HT. Puja nuestra 8,000 (líder, 8 pujas).
+- Descartados: Künzer (84,660 a 3 h del cierre, superará el tope), Vaccarezza (140,760), Spica/Pietarila/Sønderby (>1M).
+- Alternativas sin especialidad vistas: Edoardo Stas (518261824, 17a8d, PM7, D7, TSI 1,580, 7,000, cierra 26-nov 21:15 HT); Lajos Szabó (518261365, PM7, D6, P5, TSI 1,460, 3,000, cierra 19:15 HT). No pujadas (fuera del perfil aprobado).
+- Hipótesis sin verificar: las diferencias extremas de precio entre jugadores con las mismas habilidades visibles podrían deberse a la nacionalidad (valor para selecciones Sub-21).
