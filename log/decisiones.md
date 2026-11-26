@@ -140,3 +140,11 @@ Sin verificar: cuántas semanas tarda nuestro entrenamiento (entrenador nivel 3,
 
 ## 26-nov 12:56 HT — Heinloth ganado
 - A las 12:52 HT "Kareem e Abdul già al bar" pujó 12,000; respondimos 13,000 (tope 15,000). La subasta se extendió a 12:55 y cerró con nosotros como mejor postor: **13,000 US$**. Pendiente confirmar llegada a la plantilla.
+
+## 26-nov ~15:06 HT — revisión Leisibach / Ibañez / Stas
+- Heinloth ya figura en Satoshian FC (sueldo 432 US$/sem con recargo de extranjero).
+- Leisibach: 15,000 (Valencia Beach CF), 13 pujas. No se defiende (decisión previa). Fuera.
+- Ibañez: **186,000** (53 pujas) a 52 min del cierre. Muy por encima del tope de 15,000. Fuera.
+- Stas: **382,500** (26 pujas) a 6 h del cierre. Confirmado que retirarse en 30,000 fue correcto.
+- Amestoy: seguimos líderes con 8,000 (8 pujas), cierra 27-nov 09:17 HT.
+- Lección: el precio a horas del cierre no dice nada. Ibañez pasó de 12,000 a 186,000 en 7 h; Stas de 7,000 a 382,500. Los jugadores con TSI alto (≥1,250) se disparan al final; Heinloth (TSI 700) cerró en 13,000. Esperar lo mismo con Amestoy (TSI 1,840): es probable que supere el tope de 90,000.
