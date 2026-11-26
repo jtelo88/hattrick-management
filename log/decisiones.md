@@ -160,3 +160,8 @@ Sin verificar: cuántas semanas tarda nuestro entrenamiento (entrenador nivel 3,
 - MacDonald (1,000), Shear (1,000 con autobid hasta 25,000), Tucker (1,000) y Quintanilla (5,000): seguimos líderes, sin rivales.
 - Stas sigue en 382,500. Leisibach → Valencia Beach CF; Ibañez → Rozen Moon (precio final no visible sin Supporter en la ficha; pendiente).
 - Joan ofreció dar usuario y clave para que Claude inicie sesión: rechazado (Claude no escribe contraseñas). Se mantiene el inicio de sesión manual.
+
+## 26-nov ~21:00 HT — tabla de contribución como base de la estrategia
+- Joan aportó el PDF de la wiki "Skill contribution" (edición 7-dic-2019) y pidió usarlo como base. Creado `docs/contribucion-habilidades.md`, `data/contribuciones.csv` y `tools/aporte.py`.
+- Cambios de estrategia: órdenes individuales de interiores según secundaria; extremos hacia el centro por defecto; prioridad de secundarias defensa > pases > anotación; aprendices sobrantes como central ofensivo o delantero defensivo.
+- Nota: es la wiki mantenida por usuarios, no el reglamento oficial; se valida con "Predict ratings".

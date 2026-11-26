@@ -12,6 +12,7 @@ Control y documentación de **Satoshian FC** (Hattrick.org, TeamID 3524617, seri
 | `docs/competencia.md` | Rivales de la serie: calificaciones por línea, reglas de ascenso y lectura. |
 | `docs/entrenamiento-y-cantera.md` | Eficiencia de entrenamiento, precios de entrenador y asistentes, opciones de cantera. |
 | `docs/guias-comunidad.md` | Qué recomiendan las guías de la comunidad y en qué diferimos. |
+| `docs/contribucion-habilidades.md` | **Referencia base:** porcentaje de cada habilidad que aporta cada puesto y orden a cada línea (wiki de Hattrick). Incluye `data/contribuciones.csv` y `tools/aporte.py`. |
 | `docs/evaluacion-jugadores.md` | Cómo evaluar jugadores y alineaciones: herramientas del juego, contribuciones por puesto, qué da valor de mercado. |
 | `docs/estrategia-inversion.md` | En qué invertir la caja disponible y por qué. |
 | `docs/base-de-precios.md` + `data/` | Base de precios de transferencias: ventas cerradas (`data/ventas.csv`) y subastas seguidas (`data/subastas-seguidas.csv`). |

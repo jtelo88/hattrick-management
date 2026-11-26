@@ -16,6 +16,9 @@ Objetivo: saber cuándo un jugador está caro o barato antes de pujar, y a cuán
 - "Barato" = por debajo del percentil 25 de su perfil con TSI igual o mayor a la mediana. "Caro" = por encima de la mediana con TSI menor.
 - El precio a varias horas del cierre NO es el precio final: registrar ambos para calcular el multiplicador.
 
+## Aporte en el campo
+Antes de pujar, calcular el aporte del candidato con `tools/aporte.py` (ver `docs/contribucion-habilidades.md`) y compararlo con el de los aprendices actuales: un jugador se compra si mejora una línea o si su perfil se revende mejor, no solo por precio.
+
 ## Limitaciones
 - Transfer Compare solo da 10 ventas y agrupa con criterios propios; la muestra es chica y los rangos anchos.
 - Sin acceso CHPP, la carga es manual por navegador.

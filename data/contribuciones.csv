@@ -1,0 +1,21 @@
+codigo,puesto,orden,PM_medio,DF_def_central,DF_def_lateral_centro,DF_def_lateral_banda,GK_def_central,GK_def_lateral,WG_atq_lateral,PA_atq_lateral_centro,PA_atq_lateral_banda,PA_atq_central,SC_atq_central,SC_atq_lateral,nota
+GK,Portero,normal,0,35,25,25,87,61,0,0,0,0,0,0,
+CD,Central,normal,25,100,26,52,0,0,0,0,0,0,0,0,
+CDo,Central,ofensivo,40,73,20,40,0,0,0,0,0,0,0,0,
+CDtw,Central,hacia la banda,15,67,81,81,0,0,26,0,0,0,0,0,
+WB,Lateral,normal,15,38,92,92,0,0,59,0,0,0,0,0,
+WBd,Lateral,defensivo,10,43,100,100,0,0,45,0,0,0,0,0,
+WBo,Lateral,ofensivo,20,35,74,74,0,0,69,0,0,0,0,0,
+WBtm,Lateral,hacia el centro,20,70,75,75,0,0,35,0,0,0,0,0,
+IM,Interior,normal,100,40,9,19,0,0,0,13,26,33,22,0,
+IMd,Interior,defensivo,95,58,14,27,0,0,0,7,14,18,13,0,
+IMo,Interior,ofensivo,95,16,4,9,0,0,0,18,36,49,31,0,
+IMtw,Interior,hacia la banda,90,33,24,24,0,0,59,31,31,23,0,0,
+W,Extremo,normal,45,20,35,35,0,0,86,26,26,11,0,0,
+Wd,Extremo,defensivo,30,25,61,61,0,0,69,21,21,5,0,0,
+Wo,Extremo,ofensivo,30,13,22,22,0,0,100,29,29,13,0,0,
+Wtm,Extremo,hacia el centro,55,25,29,29,0,0,74,15,15,16,0,0,
+F,Delantero,normal,25,0,0,0,0,0,18,12.1,12.1,36.9,100,22.1,
+Fd,Delantero,defensivo,35,0,0,0,0,0,13,31,31,53,56,13,
+TdF,Delantero,defensivo técnico,35,0,0,0,0,0,13,41,41,53,56,13,solo jugadores con especialidad Technical
+Ftw,Delantero,hacia la banda,15,0,0,0,0,0,64,21,21,23,66,51,además aporta a la banda opuesta: 19% SC + 21% WG + 6% PA

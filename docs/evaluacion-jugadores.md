@@ -7,25 +7,12 @@
 
 Regla de trabajo: antes de cada partido, Claude carga la alineación, lee "Predict ratings" y la compara con la alternativa; después del partido compara predicción y resultado.
 
-## Qué aporta cada puesto (tabla relativa) [pack, Unwritten Manual #15; no oficial]
-Porcentaje de la habilidad del jugador que cuenta para cada línea, relativo al puesto que más aporta.
+## Qué aporta cada puesto
+La tabla completa por puesto y orden individual está en [`contribucion-habilidades.md`](contribucion-habilidades.md) (fuente: wiki de Hattrick, "Skill contribution", edición de dic-2019). Sustituye a la tabla resumida que había aquí, tomada del context pack; las cifras coinciden, y la wiki añade la distinción centro/banda y todas las órdenes.
 
-| Puesto | Mediocampo (PM) | Defensa central | Defensa lateral | Ataque central | Ataque lateral |
-|---|---|---|---|---|---|
-| Portero | — | 87% portería + 35% defensa | 61% portería + 25% defensa | — | — |
-| Central | 25% | 100% defensa | 52% defensa | — | — |
-| Lateral (normal) | 15% | 38% defensa | 92% defensa | — | 59% extremo |
-| Interior (normal) | 100% | 40% defensa | 19% defensa | 22% scoring + 33% pases | 26% pases |
-| Extremo (normal) | 45% | 20% defensa | 35% defensa | 11% pases | 86% extremo + 26% pases |
-| Delantero (normal) | 25% | — | — | 100% scoring + 33% pases | 24% extremo + 14% pases + 27% scoring |
+Para calcular el aporte de un jugador concreto: `python3 tools/aporte.py --pm 7 --df 6 --pa 3 --sc 2 --wg 3`.
 
-Penalización por aglomeración en el centro [pack]: 2 centrales −3,6% cada uno, 3 centrales −10%; 2 interiores −6,5%, 3 interiores −17,5%; 2 delanteros −5,5%, 3 delanteros −13,5%.
-
-Lecturas útiles:
-- El **mediocampo** lo hacen casi solo los interiores; un extremo aporta 45% de su playmaking y un central 25%.
-- Con 3 interiores cada uno rinde 17,5% menos: el tercer interior suma entrenamiento, pero poca calificación.
-- La **defensa** de un interior cuenta 40% para la defensa central: por eso un interior con defensa alta vale mucho más.
-- Los valores son relativos; para calificaciones exactas se usa la predicción del juego.
+Penalización por aglomeración en el centro [pack, no está en la wiki]: 2 centrales −3,6% cada uno, 3 centrales −10%; 2 interiores −6,5%, 3 interiores −17,5%; 2 delanteros −5,5%, 3 delanteros −13,5%.
 
 ## Fórmulas de partido [pack, datos de la comunidad]
 - Reparto de ocasiones: `P = M_a³ / (M_a³ + M_b³)` con las calificaciones de mediocampo.
