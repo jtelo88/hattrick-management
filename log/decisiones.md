@@ -292,3 +292,5 @@ Validación previa de cada uno:
 - Nuestro ritmo a puesto completo: PM6→7 4.2 semanas, PM7→8 4.8, PM8→9 5.6. A medio puesto, el doble.
 - Entrenador nivel 4: solo +8.7% de velocidad. Se descarta por ahora.
 - Regla de compra: puesto completo ≤ 17a70d; medio puesto ≤ 17a40d.
+
+- 27-nov 20:38 HT: **MacDonald (518291831) ganado en 1,000**, sin rivales. Recordatorio viejo traía tope 10,000 y autobid para Shear (25,000): no aplicado; Shear va en 89,000.
