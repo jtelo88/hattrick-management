@@ -277,3 +277,11 @@ Validación previa de cada uno:
   4. Kuchenheim 518308472 (PM6 D7, pleasant) — tope 8,000 — cierra 29-nov 19:50 HT.
   5. Salemi 517263360 (PM6 D7 W5, pleasant) — tope 6,000 — cierra 29-nov 18:28 HT.
 - Regla: parar al llegar a 3 compras en total (contando MacDonald y Umfahrer); no perseguir por encima del tope. Como las pujas no se pueden retirar, se abren en orden de cierre según los cupos que queden.
+
+## 2026-11-27 (16:00 HT) — Resumen de subastas cerradas
+
+- Caja: 257,968 US$. Gasto en fichajes de la semana: 25,758 (incluye primer sueldo).
+- Precios finales [juego, Current Bids > Finished]: Amestoy 816,000; Stas 382,500; Ibañez 295,000; Miolli 136,680; Sterjovski 129,000; Taskov 91,000; Ziętarski 51,000; Stanke 29,000; Leisibach 15,000. Heinloth lo ganamos en 13,000.
+- Lección: el precio visto horas antes del cierre no predice el final. Taskov 15,000 → 91,000 (×6), Miolli 16,000 → 136,680 (×8.5), Sterjovski 6,000 → 129,000 (×21). Un PM8 + D5 de 17 años con 41–54 días cerró en 91,000–137,000, muy por encima de la mediana de Transfer Compare que usábamos.
+- En curso: Stueber 45,000 y Shear 85,000 (fuera); Gil 7,000 nuestro con autobid 25,000; MacDonald, Umfahrer y Sinkovits con nuestra puja sin rivales.
+- data/ventas.csv: añadido perfil 17_PM6_D7_25d+ (10 ventas). Pendiente: perfiles 17a W7 y 19a PM10/11.
