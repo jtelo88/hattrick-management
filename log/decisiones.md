@@ -294,3 +294,5 @@ Validación previa de cada uno:
 - Regla de compra: puesto completo ≤ 17a70d; medio puesto ≤ 17a40d.
 
 - 27-nov 20:38 HT: **MacDonald (518291831) ganado en 1,000**, sin rivales. Recordatorio viejo traía tope 10,000 y autobid para Shear (25,000): no aplicado; Shear va en 89,000.
+
+- 27-nov 23:01 HT: Umfahrer va en 4,000 (FC Uni-Gießen, 4 pujas). No se defendió: con 72 días queda al límite para subir a PM8 antes de los 18 (ver docs/referencia/01). Tope aprobado era 10,000; decisión de Claude de no usarlo, informada a Joan.
