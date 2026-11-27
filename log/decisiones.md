@@ -238,3 +238,18 @@ Lectura: el salto grande está de 8 a 9. Comprar nivel 8 sin especialidad con TS
 - Amestoy 271,000; Shear 83,000; Sterjovski 8,000: fuera. MacDonald, Tucker y Quintanilla: líderes sin rivales. Freeman: 0 visitas.
 - Personalidad de los 5 candidatos de jugadas 8: Stueber "sympathetic" (deshonesto), Beasley "pleasant", Gil "pleasant", Gangstål "pleasant"; **Ghosn "controversial person" → descartado**.
 - Precios de los candidatos sin cambios desde las 06:00 HT. Caja 257,968.
+
+## 27-nov 08:40–08:46 HT — validación, despidos y pujas (aprobado por Joan)
+**Despidos ejecutados (irreversibles): Goodwin, Lambert, Castañeda, Cabrera.** Plantilla: 20.
+Validación previa de cada uno:
+- Mercado (Transfer Compare): Castañeda mediana 1,000 (9 de 10 ventas a 1,000); Cabrera mediana 1,000; extremos de nivel 6 como Goodwin y Lambert mediana 1,000. Publicar cuesta 1,000 → venta neta nula o negativa.
+- Regla: Goodwin, Lambert y Cabrera no habían jugado ningún partido con nosotros, así que ni siquiera se podían publicar.
+- Utilidad: ninguno entra en un cupo de entrenamiento de jugadas; en su puesto hay titulares con lealtad máxima (Freeman, Elsner, Beasley, Whitaker; Moak, Watson). Castañeda además era "controversial person".
+- Ahorro: 1,170 US$/semana.
+
+**Pujas:**
+- Stueber: pujamos 3,000 y 10,000 (tope); el autobid de Grimskär respondió 11,000. Fuera. Transfer Compare de su perfil (jugadas 8 + defensa 6): mediana 102,990.
+- Gil: pujamos 5,000 y pusimos el autobid gratis hasta 15,000 (tope). Transfer Compare de su perfil (jugadas 8 + defensa 7): mediana 328,500; sin especialidad 153,000–300,000.
+- Taskov: un rival llegó a 15,000 y agotó nuestro autobid. Miolli: 16,000. Ambos fuera por tope.
+
+**Corrección importante:** a nivel 8 las secundarias SÍ multiplican el precio de compra (defensa 6 → ~100,000; defensa 7 → ~300,000). Solo los de jugadas 8 sin secundarias y sin especialidad se venden a 1,000–5,000. Los topes de 10,000–15,000 no alcanzan para perfiles con secundaria.

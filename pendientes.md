@@ -1,20 +1,16 @@
 # Pendientes (actualizado 26-nov-2026 ~08:10 HT)
 
-## Subastas con puja nuestra (26-nov 22:06 HT)
+## Subastas con puja nuestra (27-nov 08:45 HT)
 | Jugador | ID | Nuestra puja | Tope | Cierre (HT) | Nota |
 |---|---|---|---|---|---|
-| Ziętarski | 518280759 | — | 8 000 | 27-nov 05:54 | **fuera**: va en 49 000 |
-| Amestoy | 518282438 | — | 40 000 | 27-nov 09:17 | **fuera**: va en 127 000 |
-| Taskov | 516993496 | 12 000 (líder, autobid 15 000) | 15 000 | 27-nov 10:01 | interior, jugadas 8 |
-| Miolli | 518059130 | 9 000 (líder) | 15 000 | 27-nov 10:40 | interior, jugadas 8, Unpredictable |
-| MacDonald | 518291831 | 1 000 (líder) | 3 000 | 27-nov 20:38 | interior |
-| Shear | 518292968 | — | 45 000 | 27-nov 21:43 | **fuera**: va en 46 000 |
-| Tucker | 518295225 | 1 000 (líder) | no defender | 28-nov 00:44 | extremo |
+| Gil | 516351334 | 5 000 (líder, autobid 15 000) | 15 000 | 28-nov 16:00 | jugadas 8, defensa 7; mercado 153 000–300 000 |
+| MacDonald | 518291831 | 1 000 (líder) | 3 000 | 27-nov 20:38 | jugadas 7 |
+| Tucker | 518295225 | 1 000 (líder) | no defender | 28-nov 00:44 | extremo; despedir si llega |
 | Quintanilla | 518312843 | 5 000 (líder) | no defender | 29-nov 00:31 | extremo 8 |
 
-- Comprados: Heinloth 13 000, Lambert 1 000, Goodwin 1 000. Perdidos o descartados: Leisibach, Ibañez, Stas, Stanke, Sterjovski.
+- Fuera por tope: Taskov (15 000 de un rival), Miolli (16 000), Stueber (11 000), Shear, Amestoy, Ziętarski, Stanke.
+- Despedidos el 27-nov: Goodwin, Lambert, Castañeda, Cabrera. Plantilla: 20 jugadores.
 - Freeman (518180455) en venta: 2 000, cierra 29-nov 07:04, 0 visitas.
-- Regla aprobada para compras futuras: interior de 17 años y ≤15 días, jugadas 7, defensa 6 o pases 5+, TSI ≤1 050, tope 15 000 (20 000 con especialidad o pases 6), revisando Transfer Compare y personalidad; máximo 10 aprendices de jugadas.
 
 ## Revisiones programadas (hora Florida; requieren app abierta y sesión activa)
 - 26-nov 06:40 Heinloth · 09:05 Leisibach/Ibañez · 11:15 Lambert · 13:00 Goodwin · 21:00 Amestoy
