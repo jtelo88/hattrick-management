@@ -219,3 +219,8 @@ Criterio: precio máximo ≈ ventas recientes de jugadores SIN especialidad y TS
 - Taskov: nos superaron con 11,000 → pujamos 12,000, líderes. Miolli: superados con 8,000 → pujamos 9,000, líderes. Tope 15,000 c/u.
 - MacDonald 1,000 y Shear 1,000 (autobid 45,000): líderes.
 - Patrón confirmado: los de 17 años con ≤10 días y cualquier secundaria se disparan en las últimas horas, aun con TSI bajo.
+
+## 27-nov 05:41 HT — revisión
+- Shear: Conbucio fc pujó 46,000 y agotó nuestro autobid de 45,000, a 16 h del cierre. Fuera (tope 45,000). El autobid gratis queda libre.
+- Stanke: vendido a FC Viking Čierny Balog (último precio visto 28,000). Ziętarski: sigue en 49,000, fuera.
+- Seguimos líderes: Taskov 12,000, Miolli 9,000, MacDonald 1,000.
