@@ -296,3 +296,16 @@ Validación previa de cada uno:
 - 27-nov 20:38 HT: **MacDonald (518291831) ganado en 1,000**, sin rivales. Recordatorio viejo traía tope 10,000 y autobid para Shear (25,000): no aplicado; Shear va en 89,000.
 
 - 27-nov 23:01 HT: Umfahrer va en 4,000 (FC Uni-Gießen, 4 pujas). No se defendió: con 72 días queda al límite para subir a PM8 antes de los 18 (ver docs/referencia/01). Tope aprobado era 10,000; decisión de Claude de no usarlo, informada a Joan.
+
+## 2026-11-28 (00:50 HT) — Aprobaciones de Joan y ejecución
+
+Aprobado por Joan:
+1. Límite de compras: 6 en total (MacDonald ya comprado; Sinkovits tope 21,000; Lang 16,000; Balakhnichev 10,000; Salemi 6,000; uno más para el puesto completo libre, tope 10,000).
+2. **Regla fija de puestos:** los mejores prospectos de venta van siempre al 100% (medios), repartidos entre liga y amistoso, desde que llegan hasta que se venden; los de menor calidad al 50% (extremos). Cuando se vende uno del 100%, lo reemplaza una compra nueva, no un ascenso desde el 50%. Siempre 3-5-2.
+3. Tucker: despedir si no sirve. Vohidov: suplente.
+
+Ejecutado:
+- **Alineación de liga 29-nov vs Alabama Bears enviada** ("Orders have been saved"): 3-5-2. Nelson; Manning, Moak, Whitaker; extremos Bajer y Algeier (Toward Middle); medios Heinloth, Yangki, MacDonald; delanteros Sanders y Atwood (capitán). Suplentes: McArdle, Parker, Vohidov, Elsner, Gilland. Táctica y actitud normales.
+- **Owen Tucker (518295225) despedido** (extremo W6 PM4, sin encaje). Plantilla: 21.
+- Umfahrer se vendió en 4,000 (FC Uni-Gießen); Stueber 77,000; Shear 93,000.
+- Sinkovits: nos superó LIBINAKI con 6,000; se defiende cerca del cierre hasta 21,000.

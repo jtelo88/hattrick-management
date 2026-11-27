@@ -62,3 +62,15 @@ Mezcla de ascenso y construcción de activos: subir de división mientras se for
 8. **Cantera como fuente de titulares:** un canterano promovido rinde +1,5 niveles en todo mientras no se venda. Los mejores de la academia se quedan; los comprados son para revender.
 9. **Pases como segunda fase:** "Short passes" entrena a interiores, extremos y delanteros a efecto completo. Se evalúa alternarlo cuando los aprendices lleguen a jugadas 9.
 10. **Caja alta enfría a la afición:** tener mucho dinero parado hace que los aficionados reaccionen peor. Otro motivo para invertir en activos en vez de acumular.
+
+
+## Actualización 28-nov-2026: regla de puestos y perfiles de compra (vigente)
+
+- **Formación:** siempre 3-5-2, en liga y amistoso (6 puestos al 100% y 4 al 50% por semana).
+- **Puestos al 100% (medios):** solo prospectos de venta con secundaria de defensa 6–7 (o PM7 + D5), desde que llegan hasta que se venden. Al venderse uno, entra una compra nueva.
+- **Puestos al 50% (extremos, "Toward Middle"):** PM6 + D7 de 17 años y ≤ 40 días; mientras no haya, los PM6 sin secundarias que ya tenemos.
+- **Perfiles de compra y salto esperado** (ver docs/base-de-precios.md): PM7+D6 → PM8+D6 (4,000 → 103,000); PM6+D7 → PM7+D7 (11,000 → 82,000); PM7+D5 → PM8+D5 (1,000 → 91,000–137,000, solo 2 ventas).
+- **Edad máxima:** 17a70d para puesto al 100%, 17a40d para puesto al 50% (ver docs/referencia/01).
+- **Personalidad:** no se compra "controversial person" ni "nasty fellow".
+- **Entrenador:** se mantiene el nivel 3; el nivel 4 solo acelera 8.7%.
+- **Límite de compras aprobado:** 6 en total a 28-nov.
