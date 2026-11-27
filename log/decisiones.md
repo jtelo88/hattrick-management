@@ -212,3 +212,10 @@ Criterio: precio máximo ≈ ventas recientes de jugadores SIN especialidad y TS
 
 ## 26-nov ~23:05 HT — alineación juvenil
 - A pedido de Joan, guardada la alineación de Satoshian Academy para el 28-nov 10:00 HT vs FC Mjuk Plast (liga, jornada 1) y como alineación estándar. Detalle en `docs/cantera-plantilla.md`.
+
+## 27-nov 03:02 HT — revisión nocturna
+- Ziętarski: 49,000 (49 pujas) a 3 h del cierre; tope 8,000 → fuera. A las 22:05 iba en 2,000.
+- Amestoy: 228,000 (42 pujas). Stanke: 28,000. Ambos fuera.
+- Taskov: nos superaron con 11,000 → pujamos 12,000, líderes. Miolli: superados con 8,000 → pujamos 9,000, líderes. Tope 15,000 c/u.
+- MacDonald 1,000 y Shear 1,000 (autobid 45,000): líderes.
+- Patrón confirmado: los de 17 años con ≤10 días y cualquier secundaria se disparan en las últimas horas, aun con TSI bajo.

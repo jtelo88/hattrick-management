@@ -3,10 +3,10 @@
 ## Subastas con puja nuestra (26-nov 22:06 HT)
 | Jugador | ID | Nuestra puja | Tope | Cierre (HT) | Nota |
 |---|---|---|---|---|---|
-| Ziętarski | 518280759 | 2 000 (líder) | 8 000 | 27-nov 05:54 | interior, defensa 5, pases 5 |
+| Ziętarski | 518280759 | — | 8 000 | 27-nov 05:54 | **fuera**: va en 49 000 |
 | Amestoy | 518282438 | — | 40 000 | 27-nov 09:17 | **fuera**: va en 127 000 |
-| Taskov | 516993496 | 9 000 (líder) | 15 000 | 27-nov 10:01 | interior, jugadas 8 |
-| Miolli | 518059130 | 5 000 (líder) | 15 000 | 27-nov 10:40 | interior, jugadas 8, Unpredictable |
+| Taskov | 516993496 | 12 000 (líder) | 15 000 | 27-nov 10:01 | interior, jugadas 8 |
+| Miolli | 518059130 | 9 000 (líder) | 15 000 | 27-nov 10:40 | interior, jugadas 8, Unpredictable |
 | MacDonald | 518291831 | 1 000 (líder) | 3 000 | 27-nov 20:38 | interior |
 | Shear | 518292968 | autobid | **45 000** | 27-nov 21:43 | interior, pases 5 |
 | Tucker | 518295225 | 1 000 (líder) | no defender | 28-nov 00:44 | extremo |

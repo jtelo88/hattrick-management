@@ -2,7 +2,7 @@ player_id,nombre,edad,perfil,especialidad,tsi,cierre_ht,ultimo_precio_visto,vist
 518268771,Samuel Felix Heinloth,17a4d,PM7 D6,Technical,700,2026-11-26 12:54,11000,2026-11-26 07:44,13000,Satoshian FC,ganado; a las 12:52 nos superaron con 12000 y respondimos 13000
 518270400,Georges Leisibach,17a3d,PM7 D5,Unpredictable,660,2026-11-26 15:17,15000,2026-11-26 15:06,,Valencia Beach CF,fuera: >tope sin defender; 13 pujas a 11 min del cierre
 518270911,Adalberto Ibañez,17a21d,PM7 D5 P6,Technical,1260,2026-11-26 15:58,186000,2026-11-26 15:06,,Rozen Moon,"fuera: 53 pujas, 186000 a 52 min del cierre (tope 15000)"
-518282438,Georges Amestoy,17a2d,PM7 D6 Sc5,Powerful,1840,2026-11-27 09:17,127000,2026-11-26 22:32,,,"fuera: 127000 (El Jan Freenk, 22 pujas) a 11 h del cierre; tope 40000"
+518282438,Georges Amestoy,17a2d,PM7 D6 Sc5,Powerful,1840,2026-11-27 09:17,228000,2026-11-27 03:01,,,fuera: 228000 con 42 pujas a 6 h del cierre
 518261824,Edoardo Stas,17a8d,PM7 D7,,1580,2026-11-26 21:15,382500,2026-11-26 15:06,,,"26 pujas, 382500 a 6 h del cierre; nos retiramos en 30000"
 518267701,Sörren Künzer,17a7d,PM7 D6 W5,Unpredictable,1430,2026-11-26 11:13,84660,2026-11-26 07:52,,,referencia
 518262896,José Fabián Vaccarezza,17a6d,PM7 D6,Powerful,1590,2026-11-26 12:00,140760,2026-11-26 07:52,,,referencia
@@ -17,10 +17,10 @@ player_id,nombre,edad,perfil,especialidad,tsi,cierre_ht,ultimo_precio_visto,vist
 518292968,Shear,,PM7 D5 P5 W5,,1350,2026-11-27 21:43,,,,,autobid nuestro hasta 45000 (subido desde 25000)
 518295225,Tucker,,W6 PM4 P5,Technical,490,2026-11-28 00:44,1000,,,,no se defiende
 518312843,Quintanilla,,W8 PM3 (17a0d),,700,2026-11-29 00:31,5000,,,,no se defiende; mediana de mercado 3000
-518280504,Emil Stanke,17a2d,PM7 D6,,800,2026-11-27 05:18,17500,2026-11-26 22:36,,,"rival FC UCJL con autobid; Joan subió el tope a 16500, pujamos 14000 y 16500 y respondió 15000 y 17500. Retirados"
-518280759,Patryk Ziętarski,17a7d,PM7 D5 P5,,880,2026-11-27 05:54,2000,2026-11-26 22:05,,,puja nuestra (tope 8000)
+518280504,Emil Stanke,17a2d,PM7 D6,,800,2026-11-27 05:18,28000,2026-11-27 03:01,,,fuera: 28000 (FlamengoES) a 2 h del cierre
+518280759,Patryk Ziętarski,17a7d,PM7 D5 P5,,880,2026-11-27 05:54,49000,2026-11-27 03:01,,,fuera: 49000 con 49 pujas a 3 h del cierre (tope 8000)
 518283401,Talalej Sterjovski,17a2d,PM7 P6,,1040,2026-11-27 11:20,6000,2026-11-26 22:06,,,descartado: personalidad 'nasty' (riesgo de ánimo); pujamos 5000 y nos superó un autobid
-518059130,Stefano Miolli,17a54d,PM8 D5 W5,Unpredictable,1600,2026-11-27 10:40,5000,2026-11-26 22:54,,,puja nuestra (tope 15000); Estimated Value del juego 85399
-516993496,Dimitar Taskov,17a41d,PM8 D5,,1590,2026-11-27 10:01,9000,2026-11-26 22:55,,,puja nuestra (tope 15000); Estimated Value 53152; honestidad 'infamous'
+518059130,Stefano Miolli,17a54d,PM8 D5 W5,Unpredictable,1600,2026-11-27 10:40,9000,2026-11-27 03:02,,,puja nuestra 9000 (tope 15000); nos habían superado con 8000
+516993496,Dimitar Taskov,17a41d,PM8 D5,,1590,2026-11-27 10:01,12000,2026-11-27 03:02,,,puja nuestra 12000 (tope 15000); nos habían superado con 11000
 518283748,Nemesi Parés,17a26d,PM7 D5 W5,,870,2026-11-27 11:59,0,2026-11-26 22:39,,,respaldo (tope 2000) solo si se pierden Miolli y Taskov
 518282286,Helmi Schwander,17a38d,PM7 D5,Unpredictable,600,2026-11-27 09:01,0,2026-11-26 22:39,,,respaldo descartado por horario (cierra antes que Taskov y Miolli)
