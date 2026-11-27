@@ -285,3 +285,10 @@ Validación previa de cada uno:
 - Lección: el precio visto horas antes del cierre no predice el final. Taskov 15,000 → 91,000 (×6), Miolli 16,000 → 136,680 (×8.5), Sterjovski 6,000 → 129,000 (×21). Un PM8 + D5 de 17 años con 41–54 días cerró en 91,000–137,000, muy por encima de la mediana de Transfer Compare que usábamos.
 - En curso: Stueber 45,000 y Shear 85,000 (fuera); Gil 7,000 nuestro con autobid 25,000; MacDonald, Umfahrer y Sinkovits con nuestra puja sin rivales.
 - data/ventas.csv: añadido perfil 17_PM6_D7_25d+ (10 ventas). Pendiente: perfiles 17a W7 y 19a PM10/11.
+
+## 2026-11-27 (19:10 HT) — Velocidad de entrenamiento verificada
+
+- Fórmula de Schum (código de Hattrick Organizer) validada contra el manual oficial y contra la "Training estimation" del juego. Detalle en docs/referencia/01 y calculadora en tools/entrenamiento.py.
+- Nuestro ritmo a puesto completo: PM6→7 4.2 semanas, PM7→8 4.8, PM8→9 5.6. A medio puesto, el doble.
+- Entrenador nivel 4: solo +8.7% de velocidad. Se descarta por ahora.
+- Regla de compra: puesto completo ≤ 17a70d; medio puesto ≤ 17a40d.
