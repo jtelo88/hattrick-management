@@ -232,3 +232,9 @@ Jugadas sin secundarias, 17 años con más de 25 días:
 - Nivel 8: mediana 13,500; sin especialidad 1,000–5,000; con especialidad 12,000–110,000.
 - Nivel 9 (perfil con anotación 6): mediana 250,600; sin especialidad 52,500–360,000 según TSI.
 Lectura: el salto grande está de 8 a 9. Comprar nivel 8 sin especialidad con TSI alto (cerca de subir) y vender al llegar a 9 es el ciclo más corto y con mejor relación costo-beneficio. Pendiente de aprobación de Joan.
+
+## 27-nov 08:35 HT — revisión antes de aprobar la nueva estrategia
+- Taskov: líderes con 12,000 (autobid hasta 15,000), cierra 10:01 HT. Miolli: nos superaron con 12,000 → pujamos 13,000, líderes; cierra 10:40 HT.
+- Amestoy 271,000; Shear 83,000; Sterjovski 8,000: fuera. MacDonald, Tucker y Quintanilla: líderes sin rivales. Freeman: 0 visitas.
+- Personalidad de los 5 candidatos de jugadas 8: Stueber "sympathetic" (deshonesto), Beasley "pleasant", Gil "pleasant", Gangstål "pleasant"; **Ghosn "controversial person" → descartado**.
+- Precios de los candidatos sin cambios desde las 06:00 HT. Caja 257,968.
