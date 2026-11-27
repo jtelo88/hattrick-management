@@ -224,3 +224,4 @@ Criterio: precio máximo ≈ ventas recientes de jugadores SIN especialidad y TS
 - Shear: Conbucio fc pujó 46,000 y agotó nuestro autobid de 45,000, a 16 h del cierre. Fuera (tope 45,000). El autobid gratis queda libre.
 - Stanke: vendido a FC Viking Čierny Balog (último precio visto 28,000). Ziętarski: sigue en 49,000, fuera.
 - Seguimos líderes: Taskov 12,000, Miolli 9,000, MacDonald 1,000.
+- 05:45 HT — Con el autobid gratis libre, se puso en Taskov con máximo 15,000 (su tope aprobado): queda defendido aunque caduque la sesión. Miolli sigue con puja manual de 9,000.
