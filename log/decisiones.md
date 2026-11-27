@@ -225,3 +225,10 @@ Criterio: precio máximo ≈ ventas recientes de jugadores SIN especialidad y TS
 - Stanke: vendido a FC Viking Čierny Balog (último precio visto 28,000). Ziętarski: sigue en 49,000, fuera.
 - Seguimos líderes: Taskov 12,000, Miolli 9,000, MacDonald 1,000.
 - 05:45 HT — Con el autobid gratis libre, se puso en Taskov con máximo 15,000 (su tope aprobado): queda defendido aunque caduque la sesión. Miolli sigue con puja manual de 9,000.
+
+## 27-nov 05:55 HT — escalón de precio por nivel (Transfer Compare)
+Jugadas sin secundarias, 17 años con más de 25 días:
+- Nivel 7: mediana 1,000.
+- Nivel 8: mediana 13,500; sin especialidad 1,000–5,000; con especialidad 12,000–110,000.
+- Nivel 9 (perfil con anotación 6): mediana 250,600; sin especialidad 52,500–360,000 según TSI.
+Lectura: el salto grande está de 8 a 9. Comprar nivel 8 sin especialidad con TSI alto (cerca de subir) y vender al llegar a 9 es el ciclo más corto y con mejor relación costo-beneficio. Pendiente de aprobación de Joan.
