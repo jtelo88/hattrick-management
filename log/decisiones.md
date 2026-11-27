@@ -253,3 +253,11 @@ Validación previa de cada uno:
 - Taskov: un rival llegó a 15,000 y agotó nuestro autobid. Miolli: 16,000. Ambos fuera por tope.
 
 **Corrección importante:** a nivel 8 las secundarias SÍ multiplican el precio de compra (defensa 6 → ~100,000; defensa 7 → ~300,000). Solo los de jugadas 8 sin secundarias y sin especialidad se venden a 1,000–5,000. Los topes de 10,000–15,000 no alcanzan para perfiles con secundaria.
+
+## 27-nov 08:55 HT — autobid de Gil a 25,000 y hallazgo sobre jugadas 7 + defensa 6
+- Autobid de Gil subido a 25,000 (aprobado por Joan). El juego permite "Remove max bid": el autobid gratis se puede mover de jugador.
+- Idea de Joan (jugadas 7 con buena secundaria, subirlo a 8): validada con Transfer Compare, 17 años con más de 25 días:
+  - Jugadas 7 + defensa 6: mediana 4,000 (ocho de diez ventas entre 1,000 y 5,000).
+  - Jugadas 8 + defensa 6: mediana 102,990 (con TSI 1,520–1,560: 25,000–78,540; con TSI 2,270–2,420: 100,980–136,680; a 109–110 días: 33,000–62,000).
+  - Jugadas 7 + defensa 7: mediana 81,810. Jugadas 8 + defensa 7: mediana 328,500.
+- Es el mejor escalón encontrado: un nivel de entrenamiento multiplica el precio por 6 a 25.
