@@ -261,3 +261,7 @@ Validación previa de cada uno:
   - Jugadas 8 + defensa 6: mediana 102,990 (con TSI 1,520–1,560: 25,000–78,540; con TSI 2,270–2,420: 100,980–136,680; a 109–110 días: 33,000–62,000).
   - Jugadas 7 + defensa 7: mediana 81,810. Jugadas 8 + defensa 7: mediana 328,500.
 - Es el mejor escalón encontrado: un nivel de entrenamiento multiplica el precio por 6 a 25.
+
+## 27-nov 08:57 HT — pujas por jugadas 7 + defensa 6 (aprobado por Joan, tope 10,000 c/u)
+- Umfahrer (17a72d, TSI 1,050, Powerful, "pleasant guy"): pujamos 1,000, líderes. Cierra 23:17 HT.
+- Sturzenegger, Granath y Mileder: los tres son "controversial person". No se pujó, por la regla de personalidad. Pendiente de que Joan decida si la regla se relaja.

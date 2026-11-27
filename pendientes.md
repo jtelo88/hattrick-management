@@ -3,8 +3,9 @@
 ## Subastas con puja nuestra (27-nov 08:45 HT)
 | Jugador | ID | Nuestra puja | Tope | Cierre (HT) | Nota |
 |---|---|---|---|---|---|
-| Gil | 516351334 | 5 000 (líder, autobid 15 000) | 15 000 | 28-nov 16:00 | jugadas 8, defensa 7; mercado 153 000–300 000 |
+| Gil | 516351334 | 5 000 (líder, autobid 25 000) | 25 000 | 28-nov 16:00 | jugadas 8, defensa 7; mercado 153 000–300 000 |
 | MacDonald | 518291831 | 1 000 (líder) | 3 000 | 27-nov 20:38 | jugadas 7 |
+| Umfahrer | 518218441 | 1 000 (líder) | 10 000 | 27-nov 23:17 | jugadas 7, defensa 6, Powerful |
 | Tucker | 518295225 | 1 000 (líder) | no defender | 28-nov 00:44 | extremo; despedir si llega |
 | Quintanilla | 518312843 | 5 000 (líder) | no defender | 29-nov 00:31 | extremo 8 |
 
