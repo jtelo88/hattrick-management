@@ -265,3 +265,15 @@ Validación previa de cada uno:
 ## 27-nov 08:57 HT — pujas por jugadas 7 + defensa 6 (aprobado por Joan, tope 10,000 c/u)
 - Umfahrer (17a72d, TSI 1,050, Powerful, "pleasant guy"): pujamos 1,000, líderes. Cierra 23:17 HT.
 - Sturzenegger, Granath y Mileder: los tres son "controversial person". No se pujó, por la regla de personalidad. Pendiente de que Joan decida si la regla se relaja.
+
+## 2026-11-27 (09:20 HT) — Nueva línea de compra: PM6 + defensa 7
+
+- Joan mantiene la regla de personalidad: no se compra "controversial" ni "nasty" (Grezar y Barbui descartados).
+- Hallazgo [juego, Transfer Compare]: PM6+D7 a 17 años vende con mediana 11,000 (sin especialidad 1,000–49,000); PM7+D7 mediana 81,810. PM6+D6 → PM7+D6 no paga (4,000).
+- Búsqueda: 71 jugadores (17 a 25–75 d, PM 6–7, D ≥6, sin especialidad). Top 5 y topes aprobados por Joan:
+  1. Sinkovits 516709534 (PM6 D7, TSI 3,100, sympathetic) — tope 21,000 — cierra 28-nov 19:55 HT. **Puja de 5,000 colocada 27-nov 09:18 HT.**
+  2. Lang Pingsheng 517853821 (PM7 D6 SC6, 25 d, pleasant) — tope 16,000 — cierra 29-nov 18:11 HT.
+  3. Balakhnichev 518266902 (PM6 D7 W6 P5, pleasant) — tope 10,000 — cierra 30-nov 06:14 HT.
+  4. Kuchenheim 518308472 (PM6 D7, pleasant) — tope 8,000 — cierra 29-nov 19:50 HT.
+  5. Salemi 517263360 (PM6 D7 W5, pleasant) — tope 6,000 — cierra 29-nov 18:28 HT.
+- Regla: parar al llegar a 3 compras en total (contando MacDonald y Umfahrer); no perseguir por encima del tope. Como las pujas no se pueden retirar, se abren en orden de cierre según los cupos que queden.
