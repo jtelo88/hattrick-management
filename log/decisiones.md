@@ -320,3 +320,5 @@ Ejecutado:
 3. **Retener más tiempo**: sin datos nuevos; con los que hay (18a PM10 mono 162,210; 18a PM10+P6 494,800; 19a PM10 mono 48,000) la retención solo paga con pases y vendiendo antes de los 19.
 4. **Secretario**: hay una tarea pendiente "Head start: Pick a coach prospect" con botón SIGN PLAYER (sin pulsar; requiere aprobación).
 - Hallazgo extra: mensajes "Off to Bad Start" al llegar MacDonald, Goodwin, Cabrera y Algeier (4 de las compras); coincide con la caída de ánimo.
+- 28-nov 05:12 HT: aprobado por Joan. Pujas de 1,000 en **van Turenhout** (PM6+P6+D5, tope 15,000, cierra 28-nov 21:06 HT) y **Šegarić** (PM6+P6+D5+W6, tope 15,000, cierra 29-nov 13:30 HT). Límite total: 7 compras.
+- Tarea del secretario "Pick a coach prospect" abierta: elegir uno gratis entre Ricardo Gaspar (28a1d, experiencia magnificent, liderazgo weak) y Samuel Aguilera (28a89d, experiencia solid, liderazgo passable). Pendiente de elección de Joan.
