@@ -39,6 +39,13 @@
 - [ ] Reservar amistoso juvenil a partir del 30-nov.
 - [ ] Revisión en la semana 6: calidad de prospectos y 2.º scout.
 
+## Ideas a futuro (no aprobadas, solo anotadas)
+- **Reforzar delanteros con jugadores hechos (27–31 años)** [idea de Joan, 28-nov]. Hoy: Sanders SC7, Atwood SC7, Gilland SC6; ataque central 4.25 y laterales 3.50–3.75 en el amistoso del 25-nov. Mercado [juego, 28-nov]: anotación 9–10 por 1,000–22,000 y 1,100–1,700/semana de sueldo. Propuesta: 2 delanteros SC 9–10, forma ≥5, resistencia ≥6, tope 20,000 cada uno.
+- **Reforzar defensas**: defensa 9 por 1,000–10,000 (800–1,200/semana); defensa 10 por 60,000–75,000. Segunda prioridad: la defensa central (6.00) ya es el mejor sector.
+- A considerar antes de ejecutar: sueldos (+6,000–7,000/semana por 5 jugadores), posible caída de ánimo por cada compra, reventa casi nula a esa edad, y los datos del primer partido de liga (29-nov).
+- **Retener más tiempo a los mejores aprendices con pases** (venta a los 18 con PM10): pendiente de más datos de precios.
+- **Entrenador**: Aguilera convertible desde ~20-mar-2027; alternativa barata, externo nivel 4 con liderazgo poor por 268,700.
+
 ## Por verificar (solo lectura)
 - [x] La orden individual no cambia el entrenamiento (confirmado por el reglamento oficial).
 - [x] Regla de ascenso de VI.78: suben directo 1.º y 2.º; 3.º y 4.º clasificatorio (leído en el juego).
