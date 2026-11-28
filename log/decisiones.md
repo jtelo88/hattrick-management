@@ -312,3 +312,11 @@ Ejecutado:
 - 28-nov 01:52 HT: confirmado por Joan. Pujas de apertura colocadas: Lang 1,000 (tope 16,000) y Salemi 1,000 (tope 6,000). Balakhnichev se puja cerca del cierre (ya tiene un postor).
 
 - 28-nov 03:12 HT: releído completo el editorial oficial del 10-nov-2026 (cambios de motor de la temporada 96). Hallazgo en la página nueva Team psychology: **el ánimo bajó de composed (4) a irritated (3) el 27-nov**; confianza strong (5). Pendiente decisión de Joan sobre ritmo de compras y psicólogo.
+
+## 2026-11-28 (05:10 HT) — Cuatro comprobaciones tras la guía hattrickguide
+
+1. **Asistentes** [juego, Staff]: tenemos 2 de nivel 3 (4,080/semana cada uno, contrato hasta 17-mar-2027), +21% de velocidad. El juego muestra al entrenador nivel 3 en **84%** de velocidad. Subir a nivel 4 costaría 8,160/semana cada uno para +5.8%: no compensa.
+2. **Pases como secundaria** [juego]: PM6+P6 mediana 13,000 → PM7+P6 63,503 → PM8+P6 246,000. Mucho mejor escalera que defensa. Ver docs/base-de-precios.md.
+3. **Retener más tiempo**: sin datos nuevos; con los que hay (18a PM10 mono 162,210; 18a PM10+P6 494,800; 19a PM10 mono 48,000) la retención solo paga con pases y vendiendo antes de los 19.
+4. **Secretario**: hay una tarea pendiente "Head start: Pick a coach prospect" con botón SIGN PLAYER (sin pulsar; requiere aprobación).
+- Hallazgo extra: mensajes "Off to Bad Start" al llegar MacDonald, Goodwin, Cabrera y Algeier (4 de las compras); coincide con la caída de ánimo.

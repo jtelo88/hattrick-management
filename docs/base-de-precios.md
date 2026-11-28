@@ -22,3 +22,15 @@ Antes de pujar, calcular el aporte del candidato con `tools/aporte.py` (ver `doc
 ## Limitaciones
 - Transfer Compare solo da 10 ventas y agrupa con criterios propios; la muestra es chica y los rangos anchos.
 - Sin acceso CHPP, la carga es manual por navegador.
+
+## Escalera con pases como secundaria (28-nov-2026) [juego, Transfer Compare]
+
+17 años con ≥ 25 días, 10 ventas por perfil:
+
+| Perfil | Mediana | Rango | Sin especialidad |
+|---|---|---|---|
+| PM6 + P6 | 13,000 | 1,000–96,900 | 1,000 · 25,000 |
+| PM7 + P6 | 63,503 | 4,000–419,000 | 4,000 · 5,000 · 23,000 · 102,005 |
+| PM8 + P6 | 246,000 | 99,000–650,000 | 128,000 · 180,000 |
+
+Comparación con defensa: PM7+D6 mediana 4,000; PM8+D6 mediana 102,990. **Pases 6 vale mucho más que defensa 6 en un jugador de jugadas.** Los de más de 100 días y sin especialidad caen a 4,000–5,000.
