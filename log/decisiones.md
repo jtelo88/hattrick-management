@@ -309,3 +309,4 @@ Ejecutado:
 - **Owen Tucker (518295225) despedido** (extremo W6 PM4, sin encaje). Plantilla: 21.
 - Umfahrer se vendió en 4,000 (FC Uni-Gießen); Stueber 77,000; Shear 93,000.
 - Sinkovits: nos superó LIBINAKI con 6,000; se defiende cerca del cierre hasta 21,000.
+- 28-nov 01:52 HT: confirmado por Joan. Pujas de apertura colocadas: Lang 1,000 (tope 16,000) y Salemi 1,000 (tope 6,000). Balakhnichev se puja cerca del cierre (ya tiene un postor).

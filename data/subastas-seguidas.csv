@@ -15,7 +15,7 @@ player_id,nombre,edad,perfil,especialidad,tsi,cierre_ht,ultimo_precio_visto,vist
 518264864,Goodwin,,,,,2026-11-26 19:21,1000,,1000,Satoshian FC,ganado sin competencia
 518291831,MacDonald,,PM7 D5 P2 (17a29d),,700,2026-11-27 20:38,1000,,1000,Satoshian FC,ganado sin competencia (tope 3000)
 518292968,Shear,,PM7 D5 P5 W5,,1350,2026-11-27 21:43,85000,2026-11-27 16:00,,,"en curso: 85000 (RKP Rybnik), 18 pujas a 6 h del cierre"
-518295225,Tucker,,W6 PM4 P5,Technical,490,2026-11-28 00:44,1000,,,,no se defiende
+518295225,Tucker,,W6 PM4 P5,Technical,490,2026-11-28 00:44,1000,,1000,Satoshian FC,ganado y despedido el 28-nov (sin encaje)
 518312843,Quintanilla,,W8 PM3 (17a0d),,700,2026-11-29 00:31,5000,,,,no se defiende; mediana de mercado 3000
 518280504,Emil Stanke,17a2d,PM7 D6,,800,2026-11-27 05:18,28000,2026-11-27 03:01,29000,FC Viking Čierny Balog,vendido (último precio visto 28000); nos retiramos en 16500
 518280759,Patryk Ziętarski,17a7d,PM7 D5 P5,,880,2026-11-27 05:54,49000,2026-11-27 03:01,51000,ZVC Pottestampers,fuera: 49000 con 49 pujas a 3 h del cierre (tope 8000)
@@ -30,10 +30,10 @@ player_id,nombre,edad,perfil,especialidad,tsi,cierre_ht,ultimo_precio_visto,vist
 516794237,Ivo Sturzenegger,17a53d,PM7 D6 P4,,1140,2026-11-27 22:10,0,2026-11-27 08:55,,,no pujado: 'controversial person'
 518283428,Mattias Granath,17a68d,PM7 D6,Powerful,1040,2026-11-27 11:25,1000,2026-11-27 08:54,,,no pujado: 'controversial person'
 518299653,Domenik Mileder,17a17d,PM7 D6,Powerful,1050,2026-11-28 08:53,1000,2026-11-27 08:56,,,no pujado: 'controversial person'
-516709534,Lajos Sinkovits,17a60d,PM6 D7 W5 SC5,,3100,2026-11-28 19:55,5000,2026-11-27 16:00,,,puja nuestra 5000 (tope 21000); sympathetic
-517853821,Lang Pingsheng,17a25d,PM7 D6 SC6,,1580,2026-11-29 18:11,1,2026-11-27 09:15,,,pendiente de cupo (tope 16000); pleasant
+516709534,Lajos Sinkovits,17a60d,PM6 D7 W5 SC5,,3100,2026-11-28 19:55,6000,2026-11-28 01:52,,,superados por LIBINAKI (6000); defender cerca del cierre hasta 21000
+517853821,Lang Pingsheng,17a25d,PM7 D6 SC6,,1580,2026-11-29 18:11,1000,2026-11-28 01:52,,,puja nuestra 1000 (tope 16000); pleasant
 518266902,Mikhail Balakhnichev,17a29d,PM6 D7 W6 P5,,1820,2026-11-30 06:14,1000,2026-11-27 09:15,,,pendiente de cupo (tope 10000); pleasant
 518308472,Kurt Kuchenheim,17a40d,PM6 D7 P4,,1210,2026-11-29 19:50,5000,2026-11-27 09:15,,,pendiente de cupo (tope 8000); pleasant
-517263360,Rashid Salemi,17a30d,PM6 D7 W5,,1140,2026-11-29 18:28,1000,2026-11-27 09:15,,,pendiente de cupo (tope 6000); pleasant
+517263360,Rashid Salemi,17a30d,PM6 D7 W5,,1140,2026-11-29 18:28,1000,2026-11-28 01:52,,,puja nuestra 1000 (tope 6000); pleasant
 517020187,Riccardo Grezar,17a67d,PM7 D5 P5 W5 SC5,,2010,2026-11-27 18:43,1000,2026-11-27 09:05,,,no pujado: controversial person
 518215643,Manuel Barbui,17a78d,PM7 D5 SC5,,1320,2026-11-27 16:36,0,2026-11-27 09:05,,,no pujado: controversial person
