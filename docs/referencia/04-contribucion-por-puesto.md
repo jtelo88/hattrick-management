@@ -5,7 +5,7 @@
 **Qué tan fiable es** (según la propia página):
 - Última edición: 7-dic-2019. Sigue los cambios del motor de la temporada global 59 (2017).
 - Se basa en una hoja de cálculo de la comunidad ("Skills Contributions of Players", equipo YENNGOK). Es la wiki del juego, mantenida por usuarios; **no es el reglamento oficial**. El reglamento solo da el orden de importancia, sin números.
-- El editorial del 10-nov-2026 anunció ajustes a las especialidades Technical y Support y a la confianza; no vimos el detalle. Si algo no cuadra con "Predict ratings" del juego, manda el juego.
+- El editorial del 10-nov-2026 anunció ajustes a las especialidades Technical y Support y a la confianza; el detalle está en docs/referencia/03 (leído completo el 28-nov). Si algo no cuadra con "Predict ratings" del juego, manda el juego.
 
 **Cómo leerla:** cada cifra es el porcentaje de la habilidad del jugador que cuenta para esa línea. Ejemplo: un interior normal aporta el 100% de su playmaking al mediocampo y el 40% de su defensa a la defensa central.
 

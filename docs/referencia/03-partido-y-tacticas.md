@@ -33,6 +33,12 @@
 - Expectativa de la afición: favoritos leves en casa ante Alabama Bears (29-nov) y Michigan Samurais (13-dic); "We will lose" de visita ante _Barbarians_ (6-dic).
 - Venezolanos.F.C. es de Florida como nosotros: contra ellos hay derbi.
 
+## Ánimo: caída registrada [juego, 28-nov 03:12 HT]
+- Página nueva **Club > Team psychology** (`/Club/TeamSpiritHistory.aspx`): registra cada cambio de nivel de ánimo y confianza.
+- **27-nov-2026: ánimo bajó de composed (4) a irritated (3).** Confianza: strong (5), sin cambios.
+- Ese día hubo compras y despidos; el manual dice que las transferencias pueden bajar el ánimo [oficial]. La causa exacta no la muestra la página [inferencia].
+- Efecto en mediocampo con actitud normal: composed 100% → irritated 93% [comunidad].
+
 ## Cambios del motor en la temporada 96 [oficial, editorial del 10-nov-2026]
 - Confianza: los resultados antiguos pesan cada vez menos; cuenta más lo reciente. Hay una página nueva para seguir ánimo y confianza con flecha de tendencia.
 - Technical: marca algo más fácil en los eventos Technical contra Head, inicia más contraataques extra y, al ser marcado, responde como un jugador sin especialidad (ya no pierde 8%).

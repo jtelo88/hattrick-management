@@ -310,3 +310,5 @@ Ejecutado:
 - Umfahrer se vendió en 4,000 (FC Uni-Gießen); Stueber 77,000; Shear 93,000.
 - Sinkovits: nos superó LIBINAKI con 6,000; se defiende cerca del cierre hasta 21,000.
 - 28-nov 01:52 HT: confirmado por Joan. Pujas de apertura colocadas: Lang 1,000 (tope 16,000) y Salemi 1,000 (tope 6,000). Balakhnichev se puja cerca del cierre (ya tiene un postor).
+
+- 28-nov 03:12 HT: releído completo el editorial oficial del 10-nov-2026 (cambios de motor de la temporada 96). Hallazgo en la página nueva Team psychology: **el ánimo bajó de composed (4) a irritated (3) el 27-nov**; confianza strong (5). Pendiente decisión de Joan sobre ritmo de compras y psicólogo.
