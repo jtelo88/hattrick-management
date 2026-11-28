@@ -39,6 +39,23 @@
 - [ ] Reservar amistoso juvenil a partir del 30-nov.
 - [ ] Revisión en la semana 6: calidad de prospectos y 2.º scout.
 
+## Pujas vigentes y topes (actualizado 28-nov 06:15 HT) — manda sobre cualquier recordatorio viejo
+
+**Regla de Joan: no comprar jugadores de más.** Máximo 6 compras nuevas además de MacDonald. Los respaldos solo entran si se pierde uno de la lista, nunca además.
+
+| Jugador | ID | Perfil | Tope | Cierra (HT) | Estado |
+|---|---|---|---|---|---|
+| Sinkovits | 516709534 | PM6+D7 | 21,000 | 28-nov 19:55 | superados (6,000); defender cerca del cierre |
+| van Turenhout | 518299071 | PM6+P6 | 30,000 | 28-nov 21:06 | puja nuestra 1,000 |
+| Šegarić | 516987223 | PM6+P6 | 25,000 | 29-nov 13:30 | puja nuestra 1,000 |
+| Lang | 517853821 | PM7+D6 | 30,000 | 29-nov 18:11 | puja nuestra 1,000 |
+| Salemi | 517263360 | PM6+D7 | 6,000 | 29-nov 18:28 | puja nuestra 1,000 |
+| Balakhnichev | 518266902 | PM6+D7 | 10,000 | 30-nov 06:14 | sin pujar; solo si a esa hora hay menos de 6 compras nuevas aseguradas o vivas |
+| Gil | 516351334 | PM8+D7 | autobid 25,000 | 28-nov 16:00 | fuera de la cuenta de puestos; no perseguir |
+| Quintanilla | 518312843 | extremo | no se defiende | 29-nov 00:31 | puja nuestra 5,000 (no se puede retirar) |
+
+Techo de gasto total en compras: 150,000. No se compra "controversial" ni "nasty".
+
 ## Ideas a futuro (no aprobadas, solo anotadas)
 - **Reforzar delanteros con jugadores hechos (27–31 años)** [idea de Joan, 28-nov]. Hoy: Sanders SC7, Atwood SC7, Gilland SC6; ataque central 4.25 y laterales 3.50–3.75 en el amistoso del 25-nov. Mercado [juego, 28-nov]: anotación 9–10 por 1,000–22,000 y 1,100–1,700/semana de sueldo. Propuesta: 2 delanteros SC 9–10, forma ≥5, resistencia ≥6, tope 20,000 cada uno.
 - **Reforzar defensas**: defensa 9 por 1,000–10,000 (800–1,200/semana); defensa 10 por 60,000–75,000. Segunda prioridad: la defensa central (6.00) ya es el mejor sector.
